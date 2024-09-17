@@ -9,7 +9,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#agent>AGENT</a></li>
+    <li><a href=#agent>Agent</a></li>
   </ol>
 </details>
 
