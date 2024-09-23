@@ -40,7 +40,7 @@ layout: default
 |**2024-09-16**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
 |**2024-09-16**|**Partial Ordering Bayesian Logistic Regression Model for Phase I Combination Trials and Computationally Efficient Approach to Operational Prior Specification**|Weishi Chen et.al.|[2409.10352](http://arxiv.org/abs/2409.10352)|null|
-|**2024-09-16**|**Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots**|Hongming Zhang et.al.|[2409.10277](http://arxiv.org/abs/2409.10277)|null|
+|**2024-09-16**|**Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots**|Hongming Zhang et.al.|[2409.10277](http://arxiv.org/abs/2409.10277)|**[link](https://github.com/tencent-ailab/cogkernel)**|
 |**2024-09-16**|**Synchronization-Based Cooperative Distributed Model Predictive Control**|Julius Beerwerth et.al.|[2409.10215](http://arxiv.org/abs/2409.10215)|null|
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
