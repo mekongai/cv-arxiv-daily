@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Context-Based Meta Reinforcement Learning for Robust and Adaptable Peg-in-Hole Assembly Tasks**|Ahmed Shokry et.al.|[2409.16208](http://arxiv.org/abs/2409.16208)|null|
+|**2024-09-25**|**Extending Stable and Popular Matching Algorithms from Bipartite to Arbitrary Instances**|Gergely Csáji et.al.|[2409.16173](http://arxiv.org/abs/2409.16173)|null|
+|**2024-09-24**|**EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges**|Talor Abramovich et.al.|[2409.16165](http://arxiv.org/abs/2409.16165)|**[link](https://github.com/princeton-nlp/swe-agent)**|
+|**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/abs/2409.16154)|null|
+|**2024-09-24**|**Analyzing Probabilistic Methods for Evaluating Agent Capabilities**|Axel Højmark et.al.|[2409.16125](http://arxiv.org/abs/2409.16125)|null|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-24**|**A decision-theoretic model for a principal-agent collaborative learning problem**|Getachew K Befekadu et.al.|[2409.16068](http://arxiv.org/abs/2409.16068)|null|
+|**2024-09-24**|**Bridging Environments and Language with Rendering Functions and Vision-Language Models**|Theo Cachet et.al.|[2409.16024](http://arxiv.org/abs/2409.16024)|null|
+|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
+|**2024-09-24**|**Automated test generation to evaluate tool-augmented LLMs as conversational AI agents**|Samuel Arcadinho et.al.|[2409.15934](http://arxiv.org/abs/2409.15934)|null|
 |**2024-09-18**|**Residual Descent Differential Dynamic Game (RD3G) -- A Fast Newton Solver for Constrained General Sum Games**|Zhiyuan Zhang et.al.|[2409.12152](http://arxiv.org/abs/2409.12152)|null|
 |**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
 |**2024-09-19**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089](http://arxiv.org/abs/2409.12089)|**[link](https://github.com/waynchi/gui-agent)**|
@@ -48,7 +58,7 @@
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
