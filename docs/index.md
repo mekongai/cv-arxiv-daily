@@ -48,14 +48,14 @@ layout: default
 |**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Best Arm Identification with Minimal Regret**|Junwen Yang et.al.|[2409.18909](http://arxiv.org/abs/2409.18909)|null|
-|**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872](http://arxiv.org/abs/2409.18872)|null|
+|**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872](http://arxiv.org/abs/2409.18872)|**[link](https://github.com/RichardObi/SimulatingDCE)**|
 |**2024-09-27**|**Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions**|Sacha Huriot et.al.|[2409.18862](http://arxiv.org/abs/2409.18862)|null|
 |**2024-09-27**|**ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning**|Jannis Becktepe et.al.|[2409.18827](http://arxiv.org/abs/2409.18827)|**[link](https://github.com/automl/arlbench)**|
 |**2024-09-27**|**Facility Location Problem with Aleatory Agents**|Gennaro Auricchio et.al.|[2409.18817](http://arxiv.org/abs/2409.18817)|null|
 |**2024-09-27**|**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**|Yanyuan Qiao et.al.|[2409.18794](http://arxiv.org/abs/2409.18794)|null|
 |**2024-09-27**|**Forecasting Macroeconomic Dynamics using a Calibrated Data-Driven Agent-based Model**|Samuel Wiese et.al.|[2409.18760](http://arxiv.org/abs/2409.18760)|null|
 |**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098](http://arxiv.org/abs/2409.18098)|null|
-|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|**[link](https://github.com/simon-wan/fiser)**|
 |**2024-09-27**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
 |**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051](http://arxiv.org/abs/2409.18051)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
