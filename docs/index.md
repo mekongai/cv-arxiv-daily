@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
+|**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130](http://arxiv.org/abs/2410.05130)|null|
+|**2024-10-07**|**Last Iterate Convergence in Monotone Mean Field Games**|Noboru Isobe et.al.|[2410.05127](http://arxiv.org/abs/2410.05127)|null|
+|**2024-10-07**|**ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery**|Ziru Chen et.al.|[2410.05080](http://arxiv.org/abs/2410.05080)|null|
+|**2024-10-07**|**Extended Functional Representation Lemma: A Tool For Privacy, Semantic Representation, Caching, and Compression Design**|Amirreza Zamani et.al.|[2410.05033](http://arxiv.org/abs/2410.05033)|null|
+|**2024-10-07**|**Active Fine-Tuning of Generalist Policies**|Marco Bagatella et.al.|[2410.05026](http://arxiv.org/abs/2410.05026)|null|
+|**2024-10-07**|**Contest design with a finite type-space: A unifying approach**|Andrzej Baranski et.al.|[2410.04970](http://arxiv.org/abs/2410.04970)|null|
+|**2024-10-07**|**Training Interactive Agent in Large FPS Game Map with Rule-enhanced Reinforcement Learning**|Chen Zhang et.al.|[2410.04936](http://arxiv.org/abs/2410.04936)|null|
 |**2024-10-04**|**Open-World Reinforcement Learning over Long Short-Term Imagination**|Jiajian Li et.al.|[2410.03618](http://arxiv.org/abs/2410.03618)|null|
 |**2024-10-04**|**Never Mind The No-Ops: Faster and Less Volatile Simulation Modelling of Co-Evolutionary Species Interactions via Spatial Cyclic Games**|Dave Cliff et.al.|[2410.03586](http://arxiv.org/abs/2410.03586)|null|
 |**2024-10-04**|**Training on more Reachable Tasks for Generalisation in Reinforcement Learning**|Max Weltevrede et.al.|[2410.03565](http://arxiv.org/abs/2410.03565)|null|
