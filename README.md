@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130](http://arxiv.org/abs/2410.05130)|null|
-|**2024-10-07**|**Last Iterate Convergence in Monotone Mean Field Games**|Noboru Isobe et.al.|[2410.05127](http://arxiv.org/abs/2410.05127)|null|
+|**2024-10-08**|**Last Iterate Convergence in Monotone Mean Field Games**|Noboru Isobe et.al.|[2410.05127](http://arxiv.org/abs/2410.05127)|null|
 |**2024-10-07**|**ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery**|Ziru Chen et.al.|[2410.05080](http://arxiv.org/abs/2410.05080)|null|
 |**2024-10-07**|**Extended Functional Representation Lemma: A Tool For Privacy, Semantic Representation, Caching, and Compression Design**|Amirreza Zamani et.al.|[2410.05033](http://arxiv.org/abs/2410.05033)|null|
 |**2024-10-07**|**Active Fine-Tuning of Generalist Policies**|Marco Bagatella et.al.|[2410.05026](http://arxiv.org/abs/2410.05026)|null|
@@ -138,7 +138,7 @@
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
