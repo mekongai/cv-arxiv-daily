@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -19,7 +19,7 @@ layout: default
 |**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|null|
 |**2024-10-09**|**Identifying and Addressing Delusions for Target-Directed Decision-Making**|Mingde Zhao et.al.|[2410.07096](http://arxiv.org/abs/2410.07096)|null|
 |**2024-10-09**|**MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering**|Jun Shern Chan et.al.|[2410.07095](http://arxiv.org/abs/2410.07095)|**[link](https://github.com/openai/mle-bench)**|
-|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
 |**2024-10-09**|**MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses**|Zonglin Yang et.al.|[2410.07076](http://arxiv.org/abs/2410.07076)|**[link](https://github.com/ZonglinY/MOOSE-Chem)**|
 |**2024-10-09**|**Retrieval-Augmented Decision Transformer: External Memory for In-context RL**|Thomas Schmied et.al.|[2410.07071](http://arxiv.org/abs/2410.07071)|null|
 |**2024-10-09**|**Mechanism Design for Exchange Markets**|Yusen Zheng et.al.|[2410.07023](http://arxiv.org/abs/2410.07023)|null|
