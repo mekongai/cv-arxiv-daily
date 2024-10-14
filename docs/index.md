@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
+|**2024-10-11**|**From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts**|Zhuohao Jerry Zhang et.al.|[2410.09006](http://arxiv.org/abs/2410.09006)|null|
+|**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990](http://arxiv.org/abs/2410.08990)|null|
+|**2024-10-11**|**Best-of-Both-Worlds Fairness of the Envy-Cycle-Elimination Algorithm**|Jugal Garg et.al.|[2410.08986](http://arxiv.org/abs/2410.08986)|null|
+|**2024-10-11**|**Optimal Allocation with Peer Information**|Axel Niemeyer et.al.|[2410.08954](http://arxiv.org/abs/2410.08954)|null|
+|**2024-10-11**|**Transferable Belief Model on Quantum Circuits**|Qianli Zhou et.al.|[2410.08949](http://arxiv.org/abs/2410.08949)|null|
+|**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
+|**2024-10-11**|**Hyperspectral fluorescence imaging using a high-speed silicon photomultiplier array**|Chi Z. Huang et.al.|[2410.08936](http://arxiv.org/abs/2410.08936)|null|
+|**2024-10-11**|**MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL**|Claas A Voelcker et.al.|[2410.08896](http://arxiv.org/abs/2410.08896)|null|
 |**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
 |**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
 |**2024-10-10**|**SoundScape: A Human-AI Co-Creation System Making Your Memories Heard**|Chongjun Zhong et.al.|[2410.08136](http://arxiv.org/abs/2410.08136)|null|
