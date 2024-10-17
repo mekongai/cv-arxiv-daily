@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|null|
+|**2024-10-16**|**Prophet Upper Bounds for Online Matching and Auctions**|José Soto et.al.|[2410.12756](http://arxiv.org/abs/2410.12756)|null|
+|**2024-10-16**|**HEnRY: A Multi-Agent System Framework for Multi-Domain Contexts**|Emmanuele Lacavalla et.al.|[2410.12720](http://arxiv.org/abs/2410.12720)|**[link](https://github.com/2mmanu/henry)**|
+|**2024-10-16**|**A comparative analysis of metamodels for lumped cardiovascular models, and pipeline for sensitivity analysis, parameter estimation, and uncertainty quantification**|John M. Hanna et.al.|[2410.12654](http://arxiv.org/abs/2410.12654)|null|
+|**2024-10-16**|**Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control**|Koen de Vos et.al.|[2410.12651](http://arxiv.org/abs/2410.12651)|null|
+|**2024-10-16**|**Zeroth-Order Feedback Optimization in Multi-Agent Systems: Tackling Coupled Constraints**|Yingpeng Duan et.al.|[2410.12647](http://arxiv.org/abs/2410.12647)|null|
+|**2024-10-16**|**Dynamic Learning Rate for Deep Reinforcement Learning: A Bandit Approach**|Henrique Donâncio et.al.|[2410.12598](http://arxiv.org/abs/2410.12598)|null|
+|**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[2410.12568](http://arxiv.org/abs/2410.12568)|null|
+|**2024-10-16**|**A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems**|Gregorio Marchesini et.al.|[2410.12563](http://arxiv.org/abs/2410.12563)|null|
+|**2024-10-16**|**Nash equilibria in scalar discrete-time linear quadratic games**|Giulio Salizzoni et.al.|[2410.12544](http://arxiv.org/abs/2410.12544)|null|
 |**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839](http://arxiv.org/abs/2410.11839)|null|
 |**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782](http://arxiv.org/abs/2410.11782)|null|
 |**2024-10-15**|**BlendRL: A Framework for Merging Symbolic and Neural Policy Learning**|Hikaru Shindo et.al.|[2410.11689](http://arxiv.org/abs/2410.11689)|null|
