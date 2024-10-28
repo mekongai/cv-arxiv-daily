@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
+|**2024-10-25**|**Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**|Guilherme S. Y. Giardini et.al.|[2410.19718](http://arxiv.org/abs/2410.19718)|null|
+|**2024-10-25**|**Adversarial Environment Design via Regret-Guided Diffusion Models**|Hojun Chung et.al.|[2410.19715](http://arxiv.org/abs/2410.19715)|null|
+|**2024-10-25**|**Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**|Yinglun Xu et.al.|[2410.19705](http://arxiv.org/abs/2410.19705)|null|
+|**2024-10-25**|**AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs**|Clemencia Siro et.al.|[2410.19692](http://arxiv.org/abs/2410.19692)|null|
+|**2024-10-25**|**The Sound of Silence in Social Networks**|Jesús Aranda et.al.|[2410.19685](http://arxiv.org/abs/2410.19685)|null|
+|**2024-10-25**|**Optimizing Hearthstone Agents using an Evolutionary Algorithm**|Pablo García-Sánchez et.al.|[2410.19681](http://arxiv.org/abs/2410.19681)|null|
+|**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
+|**2024-10-25**|**Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**|Liu Yunhao et.al.|[2410.19639](http://arxiv.org/abs/2410.19639)|null|
+|**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
 |**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
 |**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
 |**2024-10-24**|**Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play**|Sha Li et.al.|[2410.18935](http://arxiv.org/abs/2410.18935)|null|
