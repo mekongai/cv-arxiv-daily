@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-30**|**Evaluating Cultural and Social Awareness of LLM Web Agents**|Haoyi Qiu et.al.|[2410.23252](http://arxiv.org/abs/2410.23252)|null|
 |**2024-10-30**|**Carrot and Stick: Eliciting Comparison Data and Beyond**|Yiling Chen et.al.|[2410.23243](http://arxiv.org/abs/2410.23243)|null|
 |**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242](http://arxiv.org/abs/2410.23242)|null|
-|**2024-10-30**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230](http://arxiv.org/abs/2410.23230)|null|
+|**2024-10-31**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230](http://arxiv.org/abs/2410.23230)|null|
 |**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218](http://arxiv.org/abs/2410.23218)|null|
 |**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|null|
 |**2024-10-30**|**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**|Yichao Liang et.al.|[2410.23156](http://arxiv.org/abs/2410.23156)|null|
