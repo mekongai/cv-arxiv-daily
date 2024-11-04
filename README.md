@@ -46,24 +46,24 @@
 |**2024-10-29**|**EconoJax: A Fast & Scalable Economic Simulation in Jax**|Koen Ponse et.al.|[2410.22165](http://arxiv.org/abs/2410.22165)|**[link](https://github.com/ponseko/econojax)**|
 |**2024-10-29**|**Improving Performance of Commercially Available AI Products in a Multi-Agent Configuration**|Cory Hymel et.al.|[2410.22129](http://arxiv.org/abs/2410.22129)|null|
 |**2024-10-29**|**Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model**|Chaohong Wang et.al.|[2410.22111](http://arxiv.org/abs/2410.22111)|null|
-|**2024-10-29**|**An LLM-based Simulation Framework for Embodied Conversational Agents in Psychological Counseling**|Lixiu Wu et.al.|[2410.22041](http://arxiv.org/abs/2410.22041)|null|
+|**2024-10-29**|**An LLM-based Simulation Framework for Embodied Conversational Agents in Psychological Counseling**|Lixiu Wu et.al.|[2410.22041](http://arxiv.org/abs/2410.22041)|**[link](https://github.com/air-discover/ecas-dataset)**|
 |**2024-10-28**|**Capacity-Aware Planning and Scheduling in Budget-Constrained Monotonic MDPs: A Meta-RL Approach**|Manav Vora et.al.|[2410.21249](http://arxiv.org/abs/2410.21249)|null|
 |**2024-10-28**|**Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**|Zhixin Zhang et.al.|[2410.21220](http://arxiv.org/abs/2410.21220)|**[link](https://github.com/cnzzx/vsa)**|
 |**2024-10-28**|**Magnetic Milli-spinner for Robotic Endovascular Surgery**|Shuai Wu et.al.|[2410.21112](http://arxiv.org/abs/2410.21112)|null|
 |**2024-10-28**|**Dual-Agent Deep Reinforcement Learning for Dynamic Pricing and Replenishment**|Yi Zheng et.al.|[2410.21109](http://arxiv.org/abs/2410.21109)|null|
 |**2024-10-28**|**LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**|Naga Venkata Sai Raviteja Chappa et.al.|[2410.21108](http://arxiv.org/abs/2410.21108)|null|
-|**2024-10-28**|**Topological Identification of Agent Status in Information Contagions: Application to Financial Markets**|Anubha Goel et.al.|[2410.21104](http://arxiv.org/abs/2410.21104)|null|
+|**2024-10-28**|**Topological Identification of Agent Status in Information Contagions: Application to Financial Markets**|Anubha Goel et.al.|[2410.21104](http://arxiv.org/abs/2410.21104)|**[link](https://github.com/anubha0812/gpd)**|
 |**2024-10-28**|**Automatic Generation of Benchmarks and Reliable LLM Judgment for Code Tasks**|Eitan Farchi et.al.|[2410.21071](http://arxiv.org/abs/2410.21071)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
 |**2024-10-28**|**Getting By Goal Misgeneralization With a Little Help From a Mentor**|Tu Trinh et.al.|[2410.21052](http://arxiv.org/abs/2410.21052)|null|
-|**2024-10-28**|**FairStream: Fair Multimedia Streaming Benchmark for Reinforcement Learning Agents**|Jannis Weil et.al.|[2410.21029](http://arxiv.org/abs/2410.21029)|null|
+|**2024-10-28**|**FairStream: Fair Multimedia Streaming Benchmark for Reinforcement Learning Agents**|Jannis Weil et.al.|[2410.21029](http://arxiv.org/abs/2410.21029)|**[link](https://github.com/jw3il/fairstream)**|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**|Guilherme S. Y. Giardini et.al.|[2410.19718](http://arxiv.org/abs/2410.19718)|null|
 |**2024-10-25**|**Adversarial Environment Design via Regret-Guided Diffusion Models**|Hojun Chung et.al.|[2410.19715](http://arxiv.org/abs/2410.19715)|null|
 |**2024-10-25**|**Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**|Yinglun Xu et.al.|[2410.19705](http://arxiv.org/abs/2410.19705)|null|
 |**2024-10-25**|**AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs**|Clemencia Siro et.al.|[2410.19692](http://arxiv.org/abs/2410.19692)|null|
 |**2024-10-25**|**The Sound of Silence in Social Networks**|Jesús Aranda et.al.|[2410.19685](http://arxiv.org/abs/2410.19685)|null|
-|**2024-10-25**|**Optimizing Hearthstone Agents using an Evolutionary Algorithm**|Pablo García-Sánchez et.al.|[2410.19681](http://arxiv.org/abs/2410.19681)|null|
+|**2024-10-25**|**Optimizing Hearthstone Agents using an Evolutionary Algorithm**|Pablo García-Sánchez et.al.|[2410.19681](http://arxiv.org/abs/2410.19681)|**[link](https://github.com/fergunet/SabberStone)**|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
 |**2024-10-25**|**Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**|Liu Yunhao et.al.|[2410.19639](http://arxiv.org/abs/2410.19639)|null|
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
@@ -72,7 +72,7 @@
 |**2024-10-24**|**Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play**|Sha Li et.al.|[2410.18935](http://arxiv.org/abs/2410.18935)|null|
 |**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
 |**2024-10-24**|**Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks**|Graziano A. Manduzio et.al.|[2410.18890](http://arxiv.org/abs/2410.18890)|null|
-|**2024-10-24**|**Learning Collusion in Episodic, Inventory-Constrained Markets**|Paul Friedrich et.al.|[2410.18871](http://arxiv.org/abs/2410.18871)|null|
+|**2024-10-24**|**Learning Collusion in Episodic, Inventory-Constrained Markets**|Paul Friedrich et.al.|[2410.18871](http://arxiv.org/abs/2410.18871)|**[link](https://github.com/pfriedric/EpisodicCollusion)**|
 |**2024-10-25**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792](http://arxiv.org/abs/2410.18792)|null|
 |**2024-10-24**|**Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**|Yucheng Shi et.al.|[2410.18786](http://arxiv.org/abs/2410.18786)|null|
 |**2024-10-24**|**Active Target Tracking Using Bearing-only Measurements With Gaussian Process Learning**|Yingbo Fu et.al.|[2410.18669](http://arxiv.org/abs/2410.18669)|null|
@@ -121,7 +121,7 @@
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-18**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
-|**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757](http://arxiv.org/abs/2410.13757)|null|
+|**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757](http://arxiv.org/abs/2410.13757)|**[link](https://github.com/OpenDFM/MobA)**|
 |**2024-10-17**|**Interacting humans and robots can improve sensory prediction by adapting their viscoelasticity**|Xiaoxiao Cheng et.al.|[2410.13755](http://arxiv.org/abs/2410.13755)|null|
 |**2024-10-17**|**Real Eventual Exponential Positivity of Complex-valued Laplacians: Applications to Consensus in Multi-agent Systems**|Aditi Saxena et.al.|[2410.13700](http://arxiv.org/abs/2410.13700)|null|
 |**2024-10-17**|**ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization**|Xiutian Zhao et.al.|[2410.13667](http://arxiv.org/abs/2410.13667)|**[link](https://github.com/xiutian/orchid)**|
