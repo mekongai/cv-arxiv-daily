@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
+|**2024-11-05**|**Causal Responsibility Attribution for Human-AI Collaboration**|Yahang Qi et.al.|[2411.03275](http://arxiv.org/abs/2411.03275)|**[link](https://github.com/yahang-qi/Causal-Attr-Human-AI)**|
+|**2024-11-05**|**Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities**|Ryosuke Takata et.al.|[2411.03252](http://arxiv.org/abs/2411.03252)|null|
+|**2024-11-05**|**Troll Farms**|Philipp Denter et.al.|[2411.03241](http://arxiv.org/abs/2411.03241)|null|
+|**2024-11-05**|**A resolved Lyman-Alpha profile with doubly peaked emission at z~7**|C. Moya-Sierralta et.al.|[2411.03222](http://arxiv.org/abs/2411.03222)|null|
+|**2024-11-05**|**GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis**|Temitope Akinboyewa et.al.|[2411.03205](http://arxiv.org/abs/2411.03205)|null|
+|**2024-11-05**|**Online Data Collection for Efficient Semiparametric Inference**|Shantanu Gupta et.al.|[2411.03195](http://arxiv.org/abs/2411.03195)|**[link](https://github.com/shantanu95/online-moment-selection)**|
+|**2024-11-05**|**Hierarchical Orchestra of Policies**|Thomas P Cannon et.al.|[2411.03008](http://arxiv.org/abs/2411.03008)|null|
+|**2024-11-05**|**Accelerating Task Generalisation with Multi-Level Hierarchical Options**|Thomas P Cannon et.al.|[2411.02998](http://arxiv.org/abs/2411.02998)|null|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
 |**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
 |**2024-11-04**|**Two-Sided Learning in Decentralized Matching Markets**|Vade Shah et.al.|[2411.02377](http://arxiv.org/abs/2411.02377)|null|
 |**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
