@@ -34,7 +34,7 @@
 |**2024-11-06**|**Beyond The Rainbow: High Performance Deep Reinforcement Learning On A Desktop PC**|Tyler Clark et.al.|[2411.03820](http://arxiv.org/abs/2411.03820)|null|
 |**2024-11-06**|**From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning**|Zhirui Deng et.al.|[2411.03817](http://arxiv.org/abs/2411.03817)|null|
 |**2024-11-06**|**MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue**|Fengxiang Wang et.al.|[2411.03814](http://arxiv.org/abs/2411.03814)|null|
-|**2024-11-06**|**Hybrid Transfer Reinforcement Learning: Provable Sample Efficiency from Shifted-Dynamics Data**|Chengrui Qu et.al.|[2411.03810](http://arxiv.org/abs/2411.03810)|null|
+|**2024-11-06**|**Hybrid Transfer Reinforcement Learning: Provable Sample Efficiency from Shifted-Dynamics Data**|Chengrui Qu et.al.|[2411.03810](http://arxiv.org/abs/2411.03810)|**[link](https://github.com/SilentEchoes77/hybrid-transfer-rl)**|
 |**2024-11-06**|**Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines**|Lu Bai et.al.|[2411.03711](http://arxiv.org/abs/2411.03711)|null|
 |**2024-11-06**|**Learn to Slice, Slice to Learn: Unveiling Online Optimization and Reinforcement Learning for Slicing AI Services**|Amr Abo-eleneen et.al.|[2411.03686](http://arxiv.org/abs/2411.03686)|null|
 |**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
@@ -50,7 +50,7 @@
 |**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
 |**2024-11-04**|**Two-Sided Learning in Decentralized Matching Markets**|Vade Shah et.al.|[2411.02377](http://arxiv.org/abs/2411.02377)|null|
 |**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
-|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|null|
+|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|**[link](https://github.com/THUDM/WebRL)**|
 |**2024-11-04**|**CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments**|Kung-Hsiang Huang et.al.|[2411.02305](http://arxiv.org/abs/2411.02305)|**[link](https://github.com/salesforceairesearch/crmarena)**|
 |**2024-11-04**|**Kinetic exchange opinion dynamics for the battleground-states in the 2024 US presidential elections**|Soumyajyoti Biswas et.al.|[2411.02240](http://arxiv.org/abs/2411.02240)|null|
 |**2024-11-04**|**Positive Experience Reflection for Agents in Interactive Text Environments**|Philip Lippmann et.al.|[2411.02223](http://arxiv.org/abs/2411.02223)|null|
@@ -60,10 +60,10 @@
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
 |**2024-10-31**|**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**|Zhenyu Jiang et.al.|[2410.24185](http://arxiv.org/abs/2410.24185)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
-|**2024-10-31**|**Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis**|Jia Lin Hau et.al.|[2410.24128](http://arxiv.org/abs/2410.24128)|null|
+|**2024-10-31**|**Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis**|Jia Lin Hau et.al.|[2410.24128](http://arxiv.org/abs/2410.24128)|**[link](https://github.com/MonkieDein/DRA-Q-LA)**|
 |**2024-10-31**|**Progressive Safeguards for Safe and Model-Agnostic Reinforcement Learning**|Nabil Omi et.al.|[2410.24096](http://arxiv.org/abs/2410.24096)|null|
 |**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032](http://arxiv.org/abs/2410.24032)|null|
-|**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024](http://arxiv.org/abs/2410.24024)|null|
+|**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024](http://arxiv.org/abs/2410.24024)|**[link](https://github.com/THUDM/Android-Lab)**|
 |**2024-10-31**|**Optimal control problems driven by nonlinear degenerate Fokker-Planck equations**|Francesca Anceschi et.al.|[2410.24000](http://arxiv.org/abs/2410.24000)|null|
 |**2024-10-31**|**Persuading a Credible Agent**|Jiarui Gan et.al.|[2410.23989](http://arxiv.org/abs/2410.23989)|null|
 |**2024-10-31**|**Fair Division of Chores with Budget Constraints**|Edith Elkind et.al.|[2410.23979](http://arxiv.org/abs/2410.23979)|null|
@@ -73,7 +73,7 @@
 |**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242](http://arxiv.org/abs/2410.23242)|null|
 |**2024-10-31**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230](http://arxiv.org/abs/2410.23230)|null|
 |**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218](http://arxiv.org/abs/2410.23218)|null|
-|**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|null|
+|**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|**[link](https://github.com/michaeltmatthews/jax2d)**|
 |**2024-10-30**|**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**|Yichao Liang et.al.|[2410.23156](http://arxiv.org/abs/2410.23156)|null|
 |**2024-10-30**|**Fair Division with Market Values**|Siddharth Barman et.al.|[2410.23137](http://arxiv.org/abs/2410.23137)|null|
 |**2024-10-30**|**First Place Solution to the ECCV 2024 ROAD++ Challenge @ ROAD++ Spatiotemporal Agent Detection 2024**|Tengfei Zhang et.al.|[2410.23077](http://arxiv.org/abs/2410.23077)|null|
