@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228](http://arxiv.org/abs/2411.07228)|null|
+|**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223](http://arxiv.org/abs/2411.07223)|null|
+|**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200](http://arxiv.org/abs/2411.07200)|**[link](https://github.com/karim-abdel/fact)**|
+|**2024-11-11**|**Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**|Yao Ma et.al.|[2411.07185](http://arxiv.org/abs/2411.07185)|null|
+|**2024-11-11**|**RoundTable: Investigating Group Decision-Making Mechanism in Multi-Agent Collaboration**|Young-Min Cho et.al.|[2411.07161](http://arxiv.org/abs/2411.07161)|null|
+|**2024-11-11**|**Azurin-Based Peptide p28 Arrests the p53-HDM2 Interactions: A Novel Anti-Cancer Pathway**|Albin Joy et.al.|[2411.07124](http://arxiv.org/abs/2411.07124)|null|
+|**2024-11-11**|**Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing**|Chuye Hong et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
+|**2024-11-11**|**Bounded Rationality Equilibrium Learning in Mean Field Games**|Yannick Eich et.al.|[2411.07099](http://arxiv.org/abs/2411.07099)|null|
+|**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098](http://arxiv.org/abs/2411.07098)|null|
+|**2024-11-11**|**Differentially-Private Collaborative Online Personalized Mean Estimation**|Yauhen Yakimenka et.al.|[2411.07094](http://arxiv.org/abs/2411.07094)|null|
 |**2024-11-08**|**Topology-aware Reinforcement Feature Space Reconstruction for Graph Data**|Wangyang Ying et.al.|[2411.05742](http://arxiv.org/abs/2411.05742)|null|
 |**2024-11-08**|**A Retrospective on the Robot Air Hockey Challenge: Benchmarking Robust, Reliable, and Safe Learning Techniques for Real-world Robotics**|Puze Liu et.al.|[2411.05718](http://arxiv.org/abs/2411.05718)|null|
 |**2024-11-08**|**Settling the Complexity of Popularity in Additively Separable and Fractional Hedonic Games**|Martin Bullinger et.al.|[2411.05713](http://arxiv.org/abs/2411.05713)|null|
