@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**The Impact of Social Value Orientation on Nash Equilibria of Two Player Quadratic Games**|Dan Calderone et.al.|[2411.08809](http://arxiv.org/abs/2411.08809)|null|
+|**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**Towards Fair and Efficient Public Transportation: A Bus Stop Model**|Martin Bullinger et.al.|[2411.08784](http://arxiv.org/abs/2411.08784)|null|
+|**2024-11-13**|**Logic-based Knowledge Awareness for Autonomous Agents in Continuous Spaces**|Arabinda Ghosh et.al.|[2411.08754](http://arxiv.org/abs/2411.08754)|null|
+|**2024-11-13**|**Statistical Operating Characteristics of Current Early Phase Dose Finding Designs with Toxicity and Efficacy in Oncology**|Hao Sun et.al.|[2411.08698](http://arxiv.org/abs/2411.08698)|null|
+|**2024-11-13**|**Inferring Parameter Distributions in Heterogeneous Motile Particle Ensembles: A Likelihood Approach for Second Order Langevin Models**|Jan Albrecht et.al.|[2411.08692](http://arxiv.org/abs/2411.08692)|null|
+|**2024-11-13**|**Robot See, Robot Do: Imitation Reward for Noisy Financial Environments**|Sven Goluža et.al.|[2411.08637](http://arxiv.org/abs/2411.08637)|null|
+|**2024-11-13**|**On the Application of Model Predictive Control to a Weighted Coverage Path Planning Problem**|Kilian Schweppe et.al.|[2411.08634](http://arxiv.org/abs/2411.08634)|null|
+|**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026](http://arxiv.org/abs/2411.08026)|null|
 |**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
