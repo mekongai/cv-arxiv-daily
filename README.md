@@ -23,7 +23,7 @@
 |**2024-11-14**|**Strategic Sacrifice: Self-Organized Robot Swarm Localization for Inspection Productivity**|Sneha Ramshanker et.al.|[2411.09493](http://arxiv.org/abs/2411.09493)|null|
 |**2024-11-14**|**Socio-Economic Consequences of Generative AI: A Review of Methodological Approaches**|Carlos J. Costa et.al.|[2411.09313](http://arxiv.org/abs/2411.09313)|null|
 |**2024-11-14**|**Embedding Space Allocation with Angle-Norm Joint Classifiers for Few-Shot Class-Incremental Learning**|Dunwei Tu et.al.|[2411.09250](http://arxiv.org/abs/2411.09250)|null|
-|**2024-11-14**|**Risk-aware MPPI for Stochastic Hybrid Systems**|Hardik Parwana et.al.|[2411.09198](http://arxiv.org/abs/2411.09198)|null|
+|**2024-11-14**|**Risk-aware MPPI for Stochastic Hybrid Systems**|Hardik Parwana et.al.|[2411.09198](http://arxiv.org/abs/2411.09198)|**[link](https://github.com/hardikparwana/social-navigation)**|
 |**2024-11-14**|**Enhancing reinforcement learning for population setpoint tracking in co-cultures**|Sebastián Espinel-Ríos et.al.|[2411.09177](http://arxiv.org/abs/2411.09177)|null|
 |**2024-11-14**|**Artificial Theory of Mind and Self-Guided Social Organisation**|Michael S. Harré et.al.|[2411.09169](http://arxiv.org/abs/2411.09169)|null|
 |**2024-11-14**|**Theory of Mind Enhances Collective Intelligence**|Michael S. Harré et.al.|[2411.09168](http://arxiv.org/abs/2411.09168)|null|
