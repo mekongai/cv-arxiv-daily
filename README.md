@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725](http://arxiv.org/abs/2411.12725)|null|
+|**2024-11-19**|**UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**|Chunru Lin et.al.|[2411.12711](http://arxiv.org/abs/2411.12711)|null|
+|**2024-11-19**|**Weighted Envy Freeness With Limited Subsidies**|Noga Klein Elmalem et.al.|[2411.12696](http://arxiv.org/abs/2411.12696)|null|
+|**2024-11-19**|**Quasi-stability notions in two-sided matching models**|Nadia Guiñazú et.al.|[2411.12533](http://arxiv.org/abs/2411.12533)|null|
+|**2024-11-19**|**Coevolution of relationship-driven cooperation under recommendation protocol on multiplex networks**|Hongyu Yue et.al.|[2411.12436](http://arxiv.org/abs/2411.12436)|null|
+|**2024-11-19**|**Instrumentation of Software Systems with OpenTelemetry for Software Visualization**|Malte Hansen et.al.|[2411.12380](http://arxiv.org/abs/2411.12380)|null|
+|**2024-11-19**|**C $^{2}$ INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[2411.12313](http://arxiv.org/abs/2411.12313)|null|
+|**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308](http://arxiv.org/abs/2411.12308)|null|
+|**2024-11-19**|**Emergence of Implicit World Models from Mortal Agents**|Kazuya Horibe et.al.|[2411.12304](http://arxiv.org/abs/2411.12304)|null|
+|**2024-11-19**|**Could Humans Outshine AI in Visual Data Analysis?**|Ratanond Koonchanok et.al.|[2411.12299](http://arxiv.org/abs/2411.12299)|null|
 |**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-18**|**Reinterpreting Delay and Procrastination**|Conrad Kosowsky et.al.|[2411.11828](http://arxiv.org/abs/2411.11828)|null|
 |**2024-11-18**|**Competing Bandits in Decentralized Large Contextual Matching Markets**|Satush Parikh et.al.|[2411.11794](http://arxiv.org/abs/2411.11794)|null|
