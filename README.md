@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
+|**2024-11-21**|**Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs**|Ofer Dagan et.al.|[2411.14404](http://arxiv.org/abs/2411.14404)|null|
+|**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
+|**2024-11-21**|**Q-CSM: Q-Learning-based Cognitive Service Management in Heterogeneous IoT Networks**|Kubra Duran et.al.|[2411.14281](http://arxiv.org/abs/2411.14281)|null|
+|**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264](http://arxiv.org/abs/2411.14264)|null|
+|**2024-11-21**|**Physics-Informed LLM-Agent for Automated Modulation Design in Power Electronics Systems**|Junhua Liu et.al.|[2411.14214](http://arxiv.org/abs/2411.14214)|null|
+|**2024-11-21**|**SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization**|Shuchen Zhu et.al.|[2411.14166](http://arxiv.org/abs/2411.14166)|null|
+|**2024-11-21**|**Multi-terminal Strong Coordination subject to Secrecy Constraints**|Viswanathan Ramachandran et.al.|[2411.14123](http://arxiv.org/abs/2411.14123)|null|
+|**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
 |**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
