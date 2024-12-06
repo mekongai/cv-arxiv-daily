@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction**|Yiheng Xu et.al.|[2412.04454](http://arxiv.org/abs/2412.04454)|null|
+|**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
+|**2024-12-05**|**Sub-diffraction Imaging of Carrier Dynamics in Halide Perovskite Semiconductors: Effects of Passivation, Morphology, and Ion Motion**|Madeleine D. Breshears et.al.|[2412.04423](http://arxiv.org/abs/2412.04423)|null|
+|**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415](http://arxiv.org/abs/2412.04415)|null|
+|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|null|
+|**2024-12-05**|**Intersection-Aware Assessment of EMS Accessibility in NYC: A Data-Driven Approach**|Haoran Su et.al.|[2412.04369](http://arxiv.org/abs/2412.04369)|null|
+|**2024-12-05**|**Finer Behavioral Foundation Models via Auto-Regressive Features and Advantage Weighting**|Edoardo Cetin et.al.|[2412.04368](http://arxiv.org/abs/2412.04368)|null|
+|**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
+|**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
+|**2024-12-05**|**Action Mapping for Reinforcement Learning in Continuous Environments with Constraints**|Mirco Theile et.al.|[2412.04327](http://arxiv.org/abs/2412.04327)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
 |**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
 |**2024-12-04**|**Categorize and randomize: a model of sequential stochastic choice**|Ester Sudano et.al.|[2412.03554](http://arxiv.org/abs/2412.03554)|null|
