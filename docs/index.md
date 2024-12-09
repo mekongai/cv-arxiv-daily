@@ -25,7 +25,7 @@ layout: default
 |**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
 |**2024-12-05**|**Action Mapping for Reinforcement Learning in Continuous Environments with Constraints**|Mirco Theile et.al.|[2412.04327](http://arxiv.org/abs/2412.04327)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
-|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
+|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|**[link](https://github.com/fudandisc/socialagent)**|
 |**2024-12-04**|**Categorize and randomize: a model of sequential stochastic choice**|Ester Sudano et.al.|[2412.03554](http://arxiv.org/abs/2412.03554)|null|
 |**2024-12-04**|**SPICE: Smart Projection Interface for Cooking Enhancement**|Vera Prohaska et.al.|[2412.03551](http://arxiv.org/abs/2412.03551)|null|
 |**2024-12-04**|**Risk-aware Classification via Uncertainty Quantification**|Murat Sensoy et.al.|[2412.03391](http://arxiv.org/abs/2412.03391)|null|
@@ -37,8 +37,8 @@ layout: default
 |**2024-12-03**|**Leveraging Tactile Sensing to Render both Haptic Feedback and Virtual Reality 3D Object Reconstruction in Robotic Telemanipulation**|Gabriele Giudici et.al.|[2412.02644](http://arxiv.org/abs/2412.02644)|null|
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
 |**2024-12-03**|**Generating Critical Scenarios for Testing Automated Driving Systems**|Trung-Hieu Nguyen et.al.|[2412.02574](http://arxiv.org/abs/2412.02574)|**[link](https://github.com/ise-uet-vnu/avastra)**|
-|**2024-12-03**|**TAB-Fields: A Maximum Entropy Framework for Mission-Aware Adversarial Planning**|Gokul Puthumanaillam et.al.|[2412.02570](http://arxiv.org/abs/2412.02570)|null|
-|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535](http://arxiv.org/abs/2412.02535)|null|
+|**2024-12-03**|**TAB-Fields: A Maximum Entropy Framework for Mission-Aware Adversarial Planning**|Gokul Puthumanaillam et.al.|[2412.02570](http://arxiv.org/abs/2412.02570)|**[link](https://github.com/gokulp01/bluerov2_gym)**|
+|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535](http://arxiv.org/abs/2412.02535)|**[link](https://github.com/SixuLi/FedCB2O)**|
 |**2024-12-03**|**General Resetting Theory for Group Avoidance**|Juhee Lee et.al.|[2412.02524](http://arxiv.org/abs/2412.02524)|null|
 |**2024-12-03**|**Resonance: Learning to Predict Social-Aware Pedestrian Trajectories as Co-Vibrations**|Conghao Wong et.al.|[2412.02447](http://arxiv.org/abs/2412.02447)|null|
 |**2024-12-03**|**A Multi-Agent Framework for Extensible Structured Text Generation in PLCs**|Donghao Yang et.al.|[2412.02410](http://arxiv.org/abs/2412.02410)|null|
@@ -91,7 +91,7 @@ layout: default
 |**2024-11-22**|**On the Linear Speedup of Personalized Federated Reinforcement Learning with Shared Representations**|Guojun Xiong et.al.|[2411.15014](http://arxiv.org/abs/2411.15014)|null|
 |**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
 |**2024-11-22**|**Free Energy Projective Simulation (FEPS): Active inference with interpretability**|Joséphine Pazem et.al.|[2411.14991](http://arxiv.org/abs/2411.14991)|null|
-|**2024-11-22**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|null|
+|**2024-11-22**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|**[link](https://github.com/HorizonRobotics/BIP3D)**|
 |**2024-11-22**|**Universal and Context-Independent Triggers for Precise Control of LLM Outputs**|Jiashuo Liang et.al.|[2411.14738](http://arxiv.org/abs/2411.14738)|null|
 |**2024-11-22**|**Enhancing Clinical Trial Patient Matching through Knowledge Augmentation with Multi-Agents**|Hanwen Shi et.al.|[2411.14637](http://arxiv.org/abs/2411.14637)|null|
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
@@ -224,7 +224,7 @@ layout: default
 |**2024-11-05**|**Hierarchical Orchestra of Policies**|Thomas P Cannon et.al.|[2411.03008](http://arxiv.org/abs/2411.03008)|null|
 |**2024-11-05**|**Accelerating Task Generalisation with Multi-Level Hierarchical Options**|Thomas P Cannon et.al.|[2411.02998](http://arxiv.org/abs/2411.02998)|null|
 |**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
-|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
+|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|**[link](https://github.com/SALT-NLP/PopupAttack)**|
 |**2024-11-04**|**Two-Sided Learning in Decentralized Matching Markets**|Vade Shah et.al.|[2411.02377](http://arxiv.org/abs/2411.02377)|null|
 |**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
 |**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|**[link](https://github.com/THUDM/WebRL)**|
