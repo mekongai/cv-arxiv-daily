@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255](http://arxiv.org/abs/2412.05255)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
+|**2024-12-06**|**AI's assigned gender affects human-AI cooperation**|Sepideh Bazazi et.al.|[2412.05214](http://arxiv.org/abs/2412.05214)|null|
+|**2024-12-06**|**SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot**|Jinlin Wu et.al.|[2412.05187](http://arxiv.org/abs/2412.05187)|**[link](https://github.com/franciszchen/surgbox)**|
+|**2024-12-06**|**Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models**|Da Ju et.al.|[2412.05093](http://arxiv.org/abs/2412.05093)|null|
+|**2024-12-06**|**Synchronization and desynchronization in ensembles of mobile agents**|E. M. Varvarin et.al.|[2412.05040](http://arxiv.org/abs/2412.05040)|null|
+|**2024-12-06**|**Frontier Models are Capable of In-context Scheming**|Alexander Meinke et.al.|[2412.04984](http://arxiv.org/abs/2412.04984)|null|
+|**2024-12-06**|**Putting the Iterative Training of Decision Trees to the Test on a Real-World Robotic Task**|Raphael C. Engelhardt et.al.|[2412.04974](http://arxiv.org/abs/2412.04974)|null|
+|**2024-12-06**|**Who Speaks Next? Multi-party AI Discussion Leveraging the Systematics of Turn-taking in Murder Mystery Games**|Ryota Nonomura et.al.|[2412.04937](http://arxiv.org/abs/2412.04937)|null|
+|**2024-12-06**|**Probing the contents of semantic representations from text, behavior, and brain data using the psychNorms metabase**|Zak Hussain et.al.|[2412.04936](http://arxiv.org/abs/2412.04936)|**[link](https://github.com/zak-hussain/psychnorms)**|
+|**2024-12-06**|**PERCY: A Multimodal Dataset and Conversational System for Personalized and Emotionally Aware Human-Robot Interaction**|Mohammed Althubyani et.al.|[2412.04908](http://arxiv.org/abs/2412.04908)|null|
 |**2024-12-05**|**Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction**|Yiheng Xu et.al.|[2412.04454](http://arxiv.org/abs/2412.04454)|null|
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
 |**2024-12-05**|**Sub-diffraction Imaging of Carrier Dynamics in Halide Perovskite Semiconductors: Effects of Passivation, Morphology, and Ion Motion**|Madeleine D. Breshears et.al.|[2412.04423](http://arxiv.org/abs/2412.04423)|null|
