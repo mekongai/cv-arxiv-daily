@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166](http://arxiv.org/abs/2412.15166)|null|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
 |**2024-12-19**|**Equal Merit Does Not Imply Equality: Discrimination at Equilibrium in a Hiring Market with Symmetric Agents**|Serafina Kamp et.al.|[2412.15162](http://arxiv.org/abs/2412.15162)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166](http://arxiv.org/abs/2412.15166)|null|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
 |**2024-12-19**|**Equal Merit Does Not Imply Equality: Discrimination at Equilibrium in a Hiring Market with Symmetric Agents**|Serafina Kamp et.al.|[2412.15162](http://arxiv.org/abs/2412.15162)|null|
@@ -628,7 +628,7 @@
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
