@@ -27,7 +27,7 @@ layout: default
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
 |**2024-12-18**|**Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report**|Markus Dablander et.al.|[2412.14085](http://arxiv.org/abs/2412.14085)|null|
 |**2024-12-18**|**A Computationally Grounded Framework for Cognitive Attitudes (extended version)**|Tiago de Lima et.al.|[2412.14073](http://arxiv.org/abs/2412.14073)|null|
-|**2024-12-18**|**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with Optimal Dual-use Healthcare System Administration using Deep Reinforcement Learning**|Adi Shuchami et.al.|[2412.14039](http://arxiv.org/abs/2412.14039)|null|
+|**2024-12-18**|**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with Optimal Dual-use Healthcare System Administration using Deep Reinforcement Learning**|Adi Shuchami et.al.|[2412.14039](http://arxiv.org/abs/2412.14039)|**[link](https://github.com/shuchaa/pandemic_during_war_abs)**|
 |**2024-12-18**|**Decentralized Convergence to Equilibrium Prices in Trading Networks**|Edwin Lock et.al.|[2412.13972](http://arxiv.org/abs/2412.13972)|null|
 |**2024-12-18**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto Curves**|Martin Kurečka et.al.|[2412.13962](http://arxiv.org/abs/2412.13962)|null|
 |**2024-12-18**|**Harvesting energy from turbulent winds with Reinforcement Learning**|Lorenzo Basile et.al.|[2412.13961](http://arxiv.org/abs/2412.13961)|null|
@@ -44,7 +44,7 @@ layout: default
 |**2024-12-17**|**Reservoir Computing for Fast, Simplified Reinforcement Learning on Memory Tasks**|Kevin McKee et.al.|[2412.13093](http://arxiv.org/abs/2412.13093)|null|
 |**2024-12-17**|**Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks**|Kun Huang et.al.|[2412.13054](http://arxiv.org/abs/2412.13054)|null|
 |**2024-12-18**|**NAVCON: A Cognitively Inspired and Linguistically Grounded Corpus for Vision and Language Navigation**|Karan Wanchoo et.al.|[2412.13026](http://arxiv.org/abs/2412.13026)|null|
-|**2024-12-16**|**Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives**|Marius Belly et.al.|[2412.12063](http://arxiv.org/abs/2412.12063)|null|
+|**2024-12-16**|**Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives**|Marius Belly et.al.|[2412.12063](http://arxiv.org/abs/2412.12063)|**[link](https://github.com/gaperez64/pomdps-reveal)**|
 |**2024-12-16**|**Virtual Agent-Based Communication Skills Training to Facilitate Health Persuasion Among Peers**|Farnaz Nouraei et.al.|[2412.12061](http://arxiv.org/abs/2412.12061)|null|
 |**2024-12-16**|**Learning to Navigate in Mazes with Novel Layouts using Abstract Top-down Maps**|Linfeng Zhao et.al.|[2412.12024](http://arxiv.org/abs/2412.12024)|null|
 |**2024-12-16**|**Agentic AI-Driven Technical Troubleshooting for Enterprise Systems: A Novel Weighted Retrieval-Augmented Generation Paradigm**|Rajat Khanda et.al.|[2412.12006](http://arxiv.org/abs/2412.12006)|null|
@@ -67,7 +67,7 @@ layout: default
 |**2024-12-12**|**GenEx: Generating an Explorable World**|Taiming Lu et.al.|[2412.09624](http://arxiv.org/abs/2412.09624)|null|
 |**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605](http://arxiv.org/abs/2412.09605)|null|
 |**2024-12-12**|**DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction**|Yu Feng et.al.|[2412.09572](http://arxiv.org/abs/2412.09572)|null|
-|**2024-12-12**|**Can Modern LLMs Act as Agent Cores in Radiology~Environments?**|Qiaoyu Zheng et.al.|[2412.09529](http://arxiv.org/abs/2412.09529)|null|
+|**2024-12-12**|**Can Modern LLMs Act as Agent Cores in Radiology~Environments?**|Qiaoyu Zheng et.al.|[2412.09529](http://arxiv.org/abs/2412.09529)|**[link](https://github.com/magic-ai4med/radabench)**|
 |**2024-12-12**|**Agent-based Video Trimming**|Lingfeng Yang et.al.|[2412.09513](http://arxiv.org/abs/2412.09513)|null|
 |**2024-12-12**|**Solving Multiagent Path Finding on Highly Centralized Networks**|Foivos Fioravantes et.al.|[2412.09433](http://arxiv.org/abs/2412.09433)|null|
 |**2024-12-12**|**From Intention To Implementation: Automating Biomedical Research via LLMs**|Yi Luo et.al.|[2412.09429](http://arxiv.org/abs/2412.09429)|null|
@@ -86,7 +86,7 @@ layout: default
 |**2024-12-11**|**Spatial segregation across travelling fronts in individual-based and continuum models for the growth of heterogeneous cell populations**|José A. Carrillo et.al.|[2412.08535](http://arxiv.org/abs/2412.08535)|null|
 |**2024-12-10**|**Balancing Mobility Behaviors to avoid Global epidemics from Local Outbreaks**|Pablo Valgañón et.al.|[2412.07656](http://arxiv.org/abs/2412.07656)|null|
 |**2024-12-10**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
-|**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|null|
+|**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|**[link](https://github.com/kkkaiaiai/inspo)**|
 |**2024-12-10**|**Swarm Behavior Cloning**|Jonas Nüßlein et.al.|[2412.07617](http://arxiv.org/abs/2412.07617)|null|
 |**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
 |**2024-12-10**|**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**|Hongshu Guo et.al.|[2412.07507](http://arxiv.org/abs/2412.07507)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
 |**2024-12-04**|**Mean-field Concentration of Opinion Dynamics in Random Graphs**|Javiera Gutiérrez-Ramírez et.al.|[2412.03207](http://arxiv.org/abs/2412.03207)|null|
 |**2024-12-04**|**AffordDP: Generalizable Diffusion Policy with Transferable Affordance**|Shijie Wu et.al.|[2412.03142](http://arxiv.org/abs/2412.03142)|null|
-|**2024-12-04**|**ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**|Zhe Xie et.al.|[2412.03104](http://arxiv.org/abs/2412.03104)|null|
+|**2024-12-04**|**ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**|Zhe Xie et.al.|[2412.03104](http://arxiv.org/abs/2412.03104)|**[link](https://github.com/NetManAIOps/ChatTS)**|
 |**2024-12-03**|**Leveraging Tactile Sensing to Render both Haptic Feedback and Virtual Reality 3D Object Reconstruction in Robotic Telemanipulation**|Gabriele Giudici et.al.|[2412.02644](http://arxiv.org/abs/2412.02644)|null|
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
 |**2024-12-03**|**Generating Critical Scenarios for Testing Automated Driving Systems**|Trung-Hieu Nguyen et.al.|[2412.02574](http://arxiv.org/abs/2412.02574)|**[link](https://github.com/ise-uet-vnu/avastra)**|
@@ -197,7 +197,7 @@ layout: default
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|**[link](https://github.com/ricgama/maenvs4vrp)**|
 |**2024-11-21**|**Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs**|Ofer Dagan et.al.|[2411.14404](http://arxiv.org/abs/2411.14404)|null|
-|**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
+|**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|**[link](https://github.com/splat-r/splatr)**|
 |**2024-11-21**|**Q-CSM: Q-Learning-based Cognitive Service Management in Heterogeneous IoT Networks**|Kubra Duran et.al.|[2411.14281](http://arxiv.org/abs/2411.14281)|null|
 |**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264](http://arxiv.org/abs/2411.14264)|null|
 |**2024-11-21**|**Physics-Informed LLM-Agent for Automated Modulation Design in Power Electronics Systems**|Junhua Liu et.al.|[2411.14214](http://arxiv.org/abs/2411.14214)|null|
@@ -592,7 +592,7 @@ layout: default
 |**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
 |**2024-09-24**|**A decision-theoretic model for a principal-agent collaborative learning problem**|Getachew K Befekadu et.al.|[2409.16068](http://arxiv.org/abs/2409.16068)|null|
 |**2024-09-24**|**Bridging Environments and Language with Rendering Functions and Vision-Language Models**|Theo Cachet et.al.|[2409.16024](http://arxiv.org/abs/2409.16024)|null|
-|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
+|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|**[link](https://github.com/QZH-00/AIR-Embodied)**|
 |**2024-09-24**|**Automated test generation to evaluate tool-augmented LLMs as conversational AI agents**|Samuel Arcadinho et.al.|[2409.15934](http://arxiv.org/abs/2409.15934)|null|
 |**2024-09-18**|**Residual Descent Differential Dynamic Game (RD3G) -- A Fast Newton Solver for Constrained General Sum Games**|Zhiyuan Zhang et.al.|[2409.12152](http://arxiv.org/abs/2409.12152)|null|
 |**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
