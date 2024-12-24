@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Observation Interference in Partially Observable Assistance Games**|Scott Emmons et.al.|[2412.17797](http://arxiv.org/abs/2412.17797)|null|
+|**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
+|**2024-12-23**|**Sensitivity Curve Maximization: Attacking Robust Aggregators in Distributed Learning**|Christian A. Schroth et.al.|[2412.17740](http://arxiv.org/abs/2412.17740)|null|
+|**2024-12-23**|**Robin Hood Reachability Bidding Games**|Shaull Almagor et.al.|[2412.17718](http://arxiv.org/abs/2412.17718)|null|
+|**2024-12-23**|**SMAC-Hard: Enabling Mixed Opponent Strategy Script and Self-play on SMAC**|Yue Deng et.al.|[2412.17707](http://arxiv.org/abs/2412.17707)|**[link](https://github.com/devindeng94/smac-hard)**|
+|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
+|**2024-12-23**|**Shape and Performance of Fastest Paths over Networks with Interacting Selfish Agents**|Marco Cogoni et.al.|[2412.17665](http://arxiv.org/abs/2412.17665)|null|
+|**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
+|**2024-12-23**|**Fluid-Derived Lattices for Unbiased Modeling of Bacterial Colony Growth**|Bryan Verhoef et.al.|[2412.17604](http://arxiv.org/abs/2412.17604)|null|
+|**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
