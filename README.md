@@ -32,12 +32,12 @@
 |**2024-12-23**|**Sensitivity Curve Maximization: Attacking Robust Aggregators in Distributed Learning**|Christian A. Schroth et.al.|[2412.17740](http://arxiv.org/abs/2412.17740)|null|
 |**2024-12-23**|**Robin Hood Reachability Bidding Games**|Shaull Almagor et.al.|[2412.17718](http://arxiv.org/abs/2412.17718)|null|
 |**2024-12-23**|**SMAC-Hard: Enabling Mixed Opponent Strategy Script and Self-play on SMAC**|Yue Deng et.al.|[2412.17707](http://arxiv.org/abs/2412.17707)|**[link](https://github.com/devindeng94/smac-hard)**|
-|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
+|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|**[link](https://github.com/tjunlp-lab/awesome-llm-safety-papers)**|
 |**2024-12-23**|**Shape and Performance of Fastest Paths over Networks with Interacting Selfish Agents**|Marco Cogoni et.al.|[2412.17665](http://arxiv.org/abs/2412.17665)|null|
 |**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
 |**2024-12-23**|**Fluid-Derived Lattices for Unbiased Modeling of Bacterial Colony Growth**|Bryan Verhoef et.al.|[2412.17604](http://arxiv.org/abs/2412.17604)|null|
 |**2024-12-23**|**PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World**|Yanheng He et.al.|[2412.17589](http://arxiv.org/abs/2412.17589)|null|
-|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
 |**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
 |**2024-12-20**|**Active Flow Control for Bluff Body under High Reynolds Number Turbulent Flow Conditions Using Deep Reinforcement Learning**|Jingbo Chen et.al.|[2412.15975](http://arxiv.org/abs/2412.15975)|null|
@@ -111,7 +111,7 @@
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
 |**2024-12-11**|**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**|Mingfei Han et.al.|[2412.08591](http://arxiv.org/abs/2412.08591)|null|
 |**2024-12-11**|**Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead**|Yanqi Su et.al.|[2412.08581](http://arxiv.org/abs/2412.08581)|null|
-|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|null|
+|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|**[link](https://github.com/cl2-uwaterloo/genplan)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-11**|**Exact Algorithms for Multiagent Path Finding with Communication Constraints on Tree-Like Structures**|Foivos Fioravantes et.al.|[2412.08556](http://arxiv.org/abs/2412.08556)|null|
 |**2024-12-11**|**Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks**|Ao Liu et.al.|[2412.08555](http://arxiv.org/abs/2412.08555)|null|
@@ -163,7 +163,7 @@
 |**2024-12-04**|**SPICE: Smart Projection Interface for Cooking Enhancement**|Vera Prohaska et.al.|[2412.03551](http://arxiv.org/abs/2412.03551)|null|
 |**2024-12-04**|**Risk-aware Classification via Uncertainty Quantification**|Murat Sensoy et.al.|[2412.03391](http://arxiv.org/abs/2412.03391)|null|
 |**2024-12-04**|**WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis**|Chengwei Hu et.al.|[2412.03359](http://arxiv.org/abs/2412.03359)|null|
-|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|**[link](https://github.com/georgewanglz2019/LLMTraveler)**|
 |**2024-12-04**|**Mean-field Concentration of Opinion Dynamics in Random Graphs**|Javiera Gutiérrez-Ramírez et.al.|[2412.03207](http://arxiv.org/abs/2412.03207)|null|
 |**2024-12-04**|**AffordDP: Generalizable Diffusion Policy with Transferable Affordance**|Shijie Wu et.al.|[2412.03142](http://arxiv.org/abs/2412.03142)|null|
 |**2024-12-04**|**ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**|Zhe Xie et.al.|[2412.03104](http://arxiv.org/abs/2412.03104)|**[link](https://github.com/NetManAIOps/ChatTS)**|
