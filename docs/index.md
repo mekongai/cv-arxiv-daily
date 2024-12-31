@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
+|**2024-12-30**|**Training Software Engineering Agents and Verifiers with SWE-Gym**|Jiayi Pan et.al.|[2412.21139](http://arxiv.org/abs/2412.21139)|**[link](https://github.com/swe-gym/swe-gym)**|
+|**2024-12-30**|**Positional information trade-offs in boundary-driven reaction-diffusion systems**|Jonas Berx et.al.|[2412.21113](http://arxiv.org/abs/2412.21113)|null|
+|**2024-12-30**|**Exploring and Controlling Diversity in LLM-Agent Conversation**|KuanChao Chu et.al.|[2412.21102](http://arxiv.org/abs/2412.21102)|null|
+|**2024-12-30**|**Advances in Multi-agent Reinforcement Learning: Persistent Autonomy and Robot Learning Lab Report 2024**|Reza Azadeh et.al.|[2412.21088](http://arxiv.org/abs/2412.21088)|null|
+|**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069](http://arxiv.org/abs/2412.21069)|null|
+|**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033](http://arxiv.org/abs/2412.21033)|null|
+|**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
+|**2024-12-30**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787](http://arxiv.org/abs/2412.20787)|null|
 |**2024-12-27**|**Bottom-up robust modeling for the foraging behavior of Physarum polycephalum**|Damiano Reginato et.al.|[2412.19790](http://arxiv.org/abs/2412.19790)|null|
 |**2024-12-27**|**Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration**|Le Chen et.al.|[2412.19770](http://arxiv.org/abs/2412.19770)|**[link](https://github.com/hpc-fortran2cpp/fortran2cpp)**|
 |**2024-12-27**|**Can Large Language Models Adapt to Other Agents In-Context?**|Matthew Riemer et.al.|[2412.19726](http://arxiv.org/abs/2412.19726)|null|
