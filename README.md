@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Kinetic theory of decentralized learning for smart active matter**|Gerhard Jung et.al.|[2501.03948](http://arxiv.org/abs/2501.03948)|null|
+|**2025-01-07**|**Implicit Coordination using Active Epistemic Inference**|Lauren Bramblett et.al.|[2501.03907](http://arxiv.org/abs/2501.03907)|null|
+|**2025-01-07**|**Truthful mechanisms for linear bandit games with private contexts**|Yiting Hu et.al.|[2501.03865](http://arxiv.org/abs/2501.03865)|null|
+|**2025-01-07**|**Rendezfood: A Design Case Study of a Conversational Location-based Approach in Restaurants**|Philip Weber et.al.|[2501.03862](http://arxiv.org/abs/2501.03862)|null|
+|**2025-01-07**|**Run-and-tumble chemotaxis using reinforcement learning**|Ramesh Pramanik et.al.|[2501.03687](http://arxiv.org/abs/2501.03687)|null|
+|**2025-01-07**|**The Textbook of Tomorrow: Rethinking Course Material Interfacing in the Era of GPT**|Audrey Olson et.al.|[2501.03618](http://arxiv.org/abs/2501.03618)|null|
+|**2025-01-07**|**Distributed Observer for Descriptor Linear System: The Luenberger Observer Method**|Shuai Liu et.al.|[2501.03564](http://arxiv.org/abs/2501.03564)|null|
+|**2025-01-07**|**Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution Perspective**|Tianyang Duan et.al.|[2501.03562](http://arxiv.org/abs/2501.03562)|null|
+|**2025-01-07**|**FgC2F-UDiff: Frequency-guided and Coarse-to-fine Unified Diffusion Model for Multi-modality Missing MRI Synthesis**|Xiaojiao Xiao et.al.|[2501.03526](http://arxiv.org/abs/2501.03526)|**[link](https://github.com/xiaojiao929/fgc2f-udiff)**|
+|**2025-01-07**|**A Unified Attack Detection Strategy for Multi-Agent Systems over Transient and Steady Stages**|Jinming Gao et.al.|[2501.03496](http://arxiv.org/abs/2501.03496)|null|
 |**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
 |**2025-01-06**|**Turn-based Multi-Agent Reinforcement Learning Model Checking**|Dennis Gross et.al.|[2501.03187](http://arxiv.org/abs/2501.03187)|null|
 |**2025-01-06**|**Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning**|Muyun Li et.al.|[2501.03162](http://arxiv.org/abs/2501.03162)|null|
