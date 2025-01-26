@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
 |**2025-01-23**|**A Non-Parametric Approach to Heterogeneity Analysis**|Avner Seror et.al.|[2501.13721](http://arxiv.org/abs/2501.13721)|null|
 |**2025-01-23**|**Revisiting Online Learning Approach to Inverse Linear Optimization: A Fenchel--Young Loss Perspective and Gap-Dependent Regret Analysis**|Shinsaku Sakaue et.al.|[2501.13648](http://arxiv.org/abs/2501.13648)|null|
-|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|null|
+|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
 |**2025-01-23**|**Towards a Theory of AI Personhood**|Francis Rhys Ward et.al.|[2501.13533](http://arxiv.org/abs/2501.13533)|null|
 |**2025-01-22**|**Boosting MCTS with Free Energy Minimization**|Mawaba Pascal Dao et.al.|[2501.13083](http://arxiv.org/abs/2501.13083)|null|
@@ -828,7 +828,7 @@
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

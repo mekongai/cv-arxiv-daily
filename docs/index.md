@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -21,7 +21,7 @@ layout: default
 |**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
 |**2025-01-23**|**A Non-Parametric Approach to Heterogeneity Analysis**|Avner Seror et.al.|[2501.13721](http://arxiv.org/abs/2501.13721)|null|
 |**2025-01-23**|**Revisiting Online Learning Approach to Inverse Linear Optimization: A Fenchel--Young Loss Perspective and Gap-Dependent Regret Analysis**|Shinsaku Sakaue et.al.|[2501.13648](http://arxiv.org/abs/2501.13648)|null|
-|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|null|
+|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
 |**2025-01-23**|**Towards a Theory of AI Personhood**|Francis Rhys Ward et.al.|[2501.13533](http://arxiv.org/abs/2501.13533)|null|
 |**2025-01-22**|**Boosting MCTS with Free Energy Minimization**|Mawaba Pascal Dao et.al.|[2501.13083](http://arxiv.org/abs/2501.13083)|null|
