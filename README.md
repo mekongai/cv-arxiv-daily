@@ -56,8 +56,8 @@
 |**2025-01-17**|**Deployment of an Aerial Multi-agent System for Automated Task Execution in Large-scale Underground Mining Environments**|Niklas Dahlquist et.al.|[2501.10262](http://arxiv.org/abs/2501.10262)|null|
 |**2025-01-17**|**Logarithmic Regret for Nonlinear Control**|James Wang et.al.|[2501.10261](http://arxiv.org/abs/2501.10261)|null|
 |**2025-01-17**|**Secure Semantic Communication With Homomorphic Encryption**|Rui Meng et.al.|[2501.10182](http://arxiv.org/abs/2501.10182)|null|
-|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
-|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|**[link](https://github.com/bytedance/pasa)**|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|**[link](https://github.com/tisage/cybermentor)**|
 |**2025-01-16**|**The Goofus & Gallant Story Corpus for Practical Value Alignment**|Md Sultan Al Nahian et.al.|[2501.09707](http://arxiv.org/abs/2501.09707)|null|
 |**2025-01-16**|**Authenticated Delegation and Authorized AI Agents**|Tobin South et.al.|[2501.09674](http://arxiv.org/abs/2501.09674)|null|
 |**2025-01-16**|**NS-Gym: Open-Source Simulation Environments and Benchmarks for Non-Stationary Markov Decision Processes**|Nathaniel S. Keplinger et.al.|[2501.09646](http://arxiv.org/abs/2501.09646)|**[link](https://github.com/scope-lab-vu/ns_gym)**|
@@ -71,7 +71,7 @@
 |**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
 |**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
 |**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925](http://arxiv.org/abs/2501.08925)|null|
-|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 |**2025-01-15**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
 |**2025-01-15**|**The geometry of moral decision making**|Roland M. Friedrich et.al.|[2501.08865](http://arxiv.org/abs/2501.08865)|null|
 |**2025-01-15**|**On the Dominance of Truth-Telling in Gradual Mechanisms**|Wenqian Wang et.al.|[2501.08802](http://arxiv.org/abs/2501.08802)|null|
@@ -93,7 +93,7 @@
 |**2025-01-13**|**Evaluating Agent-based Program Repair at Google**|Pat Rondon et.al.|[2501.07531](http://arxiv.org/abs/2501.07531)|null|
 |**2025-01-13**|**Improving DeFi Accessibility through Efficient Liquidity Provisioning with Deep Reinforcement Learning**|Haonan Xu et.al.|[2501.07508](http://arxiv.org/abs/2501.07508)|null|
 |**2025-01-13**|**How low-cost AI universal approximators reshape market efficiency**|Paolo Barucca et.al.|[2501.07489](http://arxiv.org/abs/2501.07489)|null|
-|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
+|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|**[link](https://github.com/ziweihuang96/synthsom)**|
 |**2025-01-13**|**Understanding and Benchmarking Artificial Intelligence: OpenAI's o3 Is Not AGI**|Rolf Pfister et.al.|[2501.07458](http://arxiv.org/abs/2501.07458)|null|
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
 |**2025-01-13**|**Attention when you need**|Lokesh Boominathan et.al.|[2501.07440](http://arxiv.org/abs/2501.07440)|null|
