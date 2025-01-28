@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**Privacy-aware Nash Equilibrium Synthesis with Partially Ordered LTL $_f$ Objectives**|Caleb Probine et.al.|[2501.16307](http://arxiv.org/abs/2501.16307)|null|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|null|
+|**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
+|**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
+|**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
+|**2025-01-27**|**Galaxy Era: Agent-based Simulation of Execution Tickets**|Pascal Stichler et.al.|[2501.16090](http://arxiv.org/abs/2501.16090)|null|
+|**2025-01-27**|**Value-oriented forecast reconciliation for renewables in electricity markets**|Honglin Wen et.al.|[2501.16086](http://arxiv.org/abs/2501.16086)|null|
+|**2025-01-27**|**Generating Spatial Synthetic Populations Using Wasserstein Generative Adversarial Network: A Case Study with EU-SILC Data for Helsinki and Thessaloniki**|Vanja Falck et.al.|[2501.16080](http://arxiv.org/abs/2501.16080)|null|
 |**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|**[link](https://github.com/ilyaorson/cyberdreamcatcher)**|
 |**2025-01-24**|**The Division of Surplus and the Burden of Proof**|Deniz Kattwinkel et.al.|[2501.14686](http://arxiv.org/abs/2501.14686)|null|
 |**2025-01-24**|**MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**|Yixing Jiang et.al.|[2501.14654](http://arxiv.org/abs/2501.14654)|**[link](https://github.com/stanfordmlgroup/medagentbench)**|
