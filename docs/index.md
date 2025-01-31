@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539](http://arxiv.org/abs/2501.18539)|null|
+|**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
+|**2025-01-30**|**Graph Exploration with Edge Weight Estimates**|Matthias Gehnen et.al.|[2501.18496](http://arxiv.org/abs/2501.18496)|null|
+|**2025-01-30**|**Conversation Games and a Strategic View of the Turing Test**|Kaveh Aryan et.al.|[2501.18455](http://arxiv.org/abs/2501.18455)|null|
+|**2025-01-30**|**Stable Marriage: Loyalty vs. Competition**|Amit Ronen et.al.|[2501.18442](http://arxiv.org/abs/2501.18442)|null|
+|**2025-01-30**|**Gravity-Bench-v1: A Benchmark on Gravitational Physics Discovery for Agents**|Nolan Koblischke et.al.|[2501.18411](http://arxiv.org/abs/2501.18411)|null|
+|**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320](http://arxiv.org/abs/2501.18320)|**[link](https://github.com/advantages/MAG-RAG-for-SASP)**|
+|**2025-01-30**|**Model-Free RL Agents Demonstrate System 1-Like Intentionality**|Hal Ashton et.al.|[2501.18299](http://arxiv.org/abs/2501.18299)|null|
+|**2025-01-30**|**CueTip: An Interactive and Explainable Physics-aware Pool Assistant**|Sean Memery et.al.|[2501.18291](http://arxiv.org/abs/2501.18291)|null|
+|**2025-01-30**|**Economic Rationality under Specialization: Evidence of Decision Bias in AI Agents**|ShuiDe Wen et.al.|[2501.18190](http://arxiv.org/abs/2501.18190)|null|
 |**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842](http://arxiv.org/abs/2501.17842)|null|
 |**2025-01-29**|**A note on the Cucker-Smale model with time delay and communication failures**|Elisa Continelli et.al.|[2501.17743](http://arxiv.org/abs/2501.17743)|null|
 |**2025-01-29**|**RICoTA: Red-teaming of In-the-wild Conversation with Test Attempts**|Eujeong Choi et.al.|[2501.17715](http://arxiv.org/abs/2501.17715)|**[link](https://github.com/boychaboy/ricota)**|
