@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization**|Yinjie Wang et.al.|[2502.04306](http://arxiv.org/abs/2502.04306)|null|
+|**2025-02-06**|**Mutual Multilinearity of Nonequilibrium Network Currents**|Sara Dal Cengio et.al.|[2502.04298](http://arxiv.org/abs/2502.04298)|null|
+|**2025-02-06**|**DECAF: Learning to be Fair in Multi-agent Resource Allocation**|Ashwin Kumar et.al.|[2502.04281](http://arxiv.org/abs/2502.04281)|null|
+|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249](http://arxiv.org/abs/2502.04249)|null|
+|**2025-02-06**|**Multi-agent Architecture Search via Agentic Supernet**|Guibin Zhang et.al.|[2502.04180](http://arxiv.org/abs/2502.04180)|null|
+|**2025-02-06**|**Dense Fixed-Wing Swarming using Receding-Horizon NMPC**|Varun Madabushi et.al.|[2502.04174](http://arxiv.org/abs/2502.04174)|null|
+|**2025-02-06**|**Behavioral Entropy-Guided Dataset Generation for Offline Reinforcement Learning**|Wesley A. Suttle et.al.|[2502.04141](http://arxiv.org/abs/2502.04141)|null|
+|**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139](http://arxiv.org/abs/2502.04139)|null|
+|**2025-02-06**|**VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**|Eason Chen et.al.|[2502.04103](http://arxiv.org/abs/2502.04103)|null|
+|**2025-02-06**|**Strategic Learning with Local Explanations as Feedback**|Kiet Q. H. Vo et.al.|[2502.04058](http://arxiv.org/abs/2502.04058)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|
 |**2025-02-05**|**Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators**|Yuan Xinjie et.al.|[2502.03424](http://arxiv.org/abs/2502.03424)|null|
 |**2025-02-05**|**Energy-Efficient Flying LoRa Gateways: A Multi-Agent Reinforcement Learning Approach**|Abdullahi Isa Ahmed et.al.|[2502.03377](http://arxiv.org/abs/2502.03377)|null|
