@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
+|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
+|**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
+|**2025-02-13**|**Learning to Coordinate with Experts**|Mohamad H. Danesh et.al.|[2502.09583](http://arxiv.org/abs/2502.09583)|null|
+|**2025-02-13**|**Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks**|Qian Wan et.al.|[2502.09577](http://arxiv.org/abs/2502.09577)|null|
+|**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
+|**2025-02-13**|**Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages**|Shreyan Biswas et.al.|[2502.09532](http://arxiv.org/abs/2502.09532)|null|
+|**2025-02-13**|**Exact Leader Estimation: A New Approach for Distributed Differentiation**|Rodrigo Aldana-Lopez et.al.|[2502.09529](http://arxiv.org/abs/2502.09529)|null|
+|**2025-02-13**|**Forward-backward Contention Resolution Schemes for Fair Rationing**|Will Ma et.al.|[2502.09521](http://arxiv.org/abs/2502.09521)|null|
 |**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
 |**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
