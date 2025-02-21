@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks**|Jianwen Luo et.al.|[2502.14848](http://arxiv.org/abs/2502.14848)|null|
+|**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
+|**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
+|**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819](http://arxiv.org/abs/2502.14819)|null|
+|**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815](http://arxiv.org/abs/2502.14815)|null|
+|**2025-02-20**|**Byzantine Game Theory: Sun Tzus Boxes**|Andrei Constantinescu et.al.|[2502.14812](http://arxiv.org/abs/2502.14812)|null|
+|**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[2502.14803](http://arxiv.org/abs/2502.14803)|null|
+|**2025-02-20**|**A Multi-Agent Perspective on Modern Information Retrieval**|Haya Nachimovsky et.al.|[2502.14796](http://arxiv.org/abs/2502.14796)|null|
+|**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777](http://arxiv.org/abs/2502.14777)|null|
+|**2025-02-20**|**Tree-of-Debate: Multi-Persona Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis**|Priyanka Kargupta et.al.|[2502.14767](http://arxiv.org/abs/2502.14767)|null|
 |**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
 |**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
 |**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
