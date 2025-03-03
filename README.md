@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Hybrid Team Tetris: A New Platform For Hybrid Multi-Agent, Multi-Human Teaming**|Kaleb Mcdowell et.al.|[2502.21300](http://arxiv.org/abs/2502.21300)|null|
+|**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/abs/2502.21297)|null|
+|**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267](http://arxiv.org/abs/2502.21267)|null|
+|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250](http://arxiv.org/abs/2502.21250)|null|
+|**2025-02-28**|**A Method of Selective Attention for Reservoir Based Agents**|Kevin McKee et.al.|[2502.21229](http://arxiv.org/abs/2502.21229)|null|
+|**2025-02-28**|**ARIES: Autonomous Reasoning with LLMs on Interactive Thought Graph Environments**|Pedro Gimenes et.al.|[2502.21208](http://arxiv.org/abs/2502.21208)|null|
+|**2025-02-28**|**Scalable Decision-Making in Stochastic Environments through Learned Temporal Abstraction**|Baiting Luo et.al.|[2502.21186](http://arxiv.org/abs/2502.21186)|null|
+|**2025-02-28**|**Reducing Reward Dependence in RL Through Adaptive Confidence Discounting**|Muhammed Yusuf Satici et.al.|[2502.21181](http://arxiv.org/abs/2502.21181)|null|
+|**2025-02-28**|**Autonomous Curriculum Design via Relative Entropy Based Task Modifications**|Muhammed Yusuf Satici et.al.|[2502.21166](http://arxiv.org/abs/2502.21166)|null|
+|**2025-02-28**|**Cryptis: Cryptographic Reasoning in Separation Logic**|Arthur Azevedo de Amorim et.al.|[2502.21156](http://arxiv.org/abs/2502.21156)|null|
 |**2025-02-27**|**Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**|Siddhant Haldar et.al.|[2502.20391](http://arxiv.org/abs/2502.20391)|null|
 |**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
 |**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379](http://arxiv.org/abs/2502.20379)|null|
