@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586](http://arxiv.org/abs/2503.09586)|null|
+|**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572](http://arxiv.org/abs/2503.09572)|null|
+|**2025-03-12**|**The turnpike control in stochastic multi-agent dynamics: a discrete-time approach with exponential integrators**|Fabio Cassini et.al.|[2503.09549](http://arxiv.org/abs/2503.09549)|null|
+|**2025-03-12**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533](http://arxiv.org/abs/2503.09533)|null|
+|**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|null|
+|**2025-03-12**|**RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment**|Md Morshed Alam et.al.|[2503.09513](http://arxiv.org/abs/2503.09513)|null|
+|**2025-03-12**|**TRACE: Real-Time Multimodal Common Ground Tracking in Situated Collaborative Dialogues**|Hannah VanderHoeven et.al.|[2503.09511](http://arxiv.org/abs/2503.09511)|null|
+|**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501](http://arxiv.org/abs/2503.09501)|null|
+|**2025-03-12**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery**|Jiayuan Huang et.al.|[2503.09474](http://arxiv.org/abs/2503.09474)|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
 |**2025-03-11**|**AgentOrca: A Dual-System Framework to Evaluate Language Agents on Operational Routine and Constraint Adherence**|Zekun Li et.al.|[2503.08669](http://arxiv.org/abs/2503.08669)|null|
 |**2025-03-11**|**EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments**|Dongping Li et.al.|[2503.08604](http://arxiv.org/abs/2503.08604)|null|
