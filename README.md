@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Exploring the Temporal Dynamics of Facial Mimicry in Emotion Processing Using Action Units**|Meisam Jamshidi Seikavandi et.al.|[2503.17306](http://arxiv.org/abs/2503.17306)|null|
+|**2025-03-21**|**Coarsening in the Persistent Voter Model: analytical results**|R. G. de Almeida et.al.|[2503.17295](http://arxiv.org/abs/2503.17295)|null|
+|**2025-03-21**|**Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem**|Abhijeet Pendyala et.al.|[2503.17194](http://arxiv.org/abs/2503.17194)|null|
+|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
+|**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125](http://arxiv.org/abs/2503.17125)|null|
+|**2025-03-21**|**Deterministic AI Agent Personality Expression through Standard Psychological Diagnostics**|J. M. Diederik Kruijssen et.al.|[2503.17085](http://arxiv.org/abs/2503.17085)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
 |**2025-03-20**|**Computing Lindahl Equilibrium for Public Goods with and without Funding Caps**|Christian Kroer et.al.|[2503.16414](http://arxiv.org/abs/2503.16414)|null|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
