@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640](http://arxiv.org/abs/2504.03640)|null|
+|**2025-04-04**|**Epicast 2.0: A large-scale, demographically detailed, agent-based model for simulating respiratory pathogen spread in the United States**|Prescott C. Alexander et.al.|[2504.03604](http://arxiv.org/abs/2504.03604)|null|
+|**2025-04-04**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601](http://arxiv.org/abs/2504.03601)|null|
+|**2025-04-04**|**A Lower Bound on Conservative Elementary Object Systems Coverability**|Francesco Di Cosmo et.al.|[2504.03591](http://arxiv.org/abs/2504.03591)|null|
+|**2025-04-04**|**SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement**|Runnan Fang et.al.|[2504.03561](http://arxiv.org/abs/2504.03561)|null|
+|**2025-04-04**|**Agentic Knowledgeable Self-awareness**|Shuofei Qiao et.al.|[2504.03553](http://arxiv.org/abs/2504.03553)|null|
+|**2025-04-04**|**The Limits of "Fairness" of the Variational Generalized Nash Equilibrium**|Sophie Hall et.al.|[2504.03540](http://arxiv.org/abs/2504.03540)|null|
+|**2025-04-04**|**RANa: Retrieval-Augmented Navigation**|Gianluca Monaci et.al.|[2504.03524](http://arxiv.org/abs/2504.03524)|null|
+|**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502](http://arxiv.org/abs/2504.03502)|null|
+|**2025-04-04**|**A stochastic volatility approximation for a tick-by-tick price model with mean-field interaction**|Paolo Dai Pra et.al.|[2504.03445](http://arxiv.org/abs/2504.03445)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
 |**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
 |**2025-04-03**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|null|
