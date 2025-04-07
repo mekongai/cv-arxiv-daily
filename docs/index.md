@@ -29,7 +29,7 @@ layout: default
 |**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
 |**2025-04-02**|**Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**|Yinggan Xu et.al.|[2504.01911](http://arxiv.org/abs/2504.01911)|null|
 |**2025-04-02**|**Interpreting Emergent Planning in Model-Free Reinforcement Learning**|Thomas Bush et.al.|[2504.01871](http://arxiv.org/abs/2504.01871)|null|
-|**2025-04-02**|**PaperBench: Evaluating AI's Ability to Replicate AI Research**|Giulio Starace et.al.|[2504.01848](http://arxiv.org/abs/2504.01848)|null|
+|**2025-04-02**|**PaperBench: Evaluating AI's Ability to Replicate AI Research**|Giulio Starace et.al.|[2504.01848](http://arxiv.org/abs/2504.01848)|**[link](https://github.com/openai/preparedness)**|
 |**2025-04-02**|**A Randomized Zeroth-Order Hierarchical Framework for Heterogeneous Federated Learning**|Yuyang Qiu et.al.|[2504.01839](http://arxiv.org/abs/2504.01839)|null|
 |**2025-04-02**|**Budget-Feasible Contracts**|Michal Feldman et.al.|[2504.01773](http://arxiv.org/abs/2504.01773)|null|
 |**2025-04-03**|**Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning**|Ke Jiang et.al.|[2504.01719](http://arxiv.org/abs/2504.01719)|null|
@@ -59,9 +59,9 @@ layout: default
 |**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/abs/2503.21720)|null|
 |**2025-03-27**|**A tale of two goals: leveraging sequentiality in multi-goal scenarios**|Olivier Serris et.al.|[2503.21677](http://arxiv.org/abs/2503.21677)|null|
 |**2025-03-27**|**Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI**|Danaja Rutar et.al.|[2503.21668](http://arxiv.org/abs/2503.21668)|null|
-|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
+|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|**[link](https://github.com/lll6gg/ui-r1)**|
 |**2025-03-27**|**A Measure Based Generalizable Approach to Understandability**|Vikas Kushwaha et.al.|[2503.21615](http://arxiv.org/abs/2503.21615)|null|
-|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|null|
+|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|**[link](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)**|
 |**2025-03-27**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols**|Johannes Voigt et.al.|[2503.21601](http://arxiv.org/abs/2503.21601)|null|
 |**2025-03-27**|**debug-gym: A Text-Based Environment for Interactive Debugging**|Xingdi Yuan et.al.|[2503.21557](http://arxiv.org/abs/2503.21557)|null|
 |**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
@@ -80,7 +80,7 @@ layout: default
 |**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851](http://arxiv.org/abs/2503.19851)|**[link](https://github.com/sampson-lee/onlinemmsi)**|
 |**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850](http://arxiv.org/abs/2503.19850)|null|
 |**2025-03-25**|**Thinking agents for zero-shot generalization to qualitatively novel tasks**|Thomas Miconi et.al.|[2503.19815](http://arxiv.org/abs/2503.19815)|null|
-|**2025-03-25**|**Simulating Tracking Data to Advance Sports Analytics Research**|David Radke et.al.|[2503.19809](http://arxiv.org/abs/2503.19809)|null|
+|**2025-03-25**|**Simulating Tracking Data to Advance Sports Analytics Research**|David Radke et.al.|[2503.19809](http://arxiv.org/abs/2503.19809)|**[link](https://github.com/Dtradke/grf_tracking_data)**|
 |**2025-03-25**|**Inducing Personality in LLM-Based Honeypot Agents: Measuring the Effect on Human-Like Agenda Generation**|Lewis Newsham et.al.|[2503.19752](http://arxiv.org/abs/2503.19752)|null|
 |**2025-03-25**|**Writing as a testbed for open ended agents**|Sian Gooding et.al.|[2503.19711](http://arxiv.org/abs/2503.19711)|null|
 |**2025-03-25**|**Optimal Path Planning and Cost Minimization for a Drone Delivery System Via Model Predictive Control**|Muhammad Al-Zafar Khan et.al.|[2503.19699](http://arxiv.org/abs/2503.19699)|null|
@@ -94,12 +94,12 @@ layout: default
 |**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
 |**2025-03-24**|**Simulation-Driven Balancing of Competitive Game Levels with Reinforcement Learning**|Florian Rupp et.al.|[2503.18748](http://arxiv.org/abs/2503.18748)|**[link](https://github.com/FlorianRupp/pcgrl-simulation-driven-balancing)**|
 |**2025-03-24**|**Unsupervised Acquisition of Discrete Grammatical Categories**|David Ph. Shakouri et.al.|[2503.18702](http://arxiv.org/abs/2503.18702)|null|
-|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
+|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|**[link](https://github.com/METR/hcast-public)**|
 |**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
 |**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|**[link](https://github.com/kchu/llm-map)**|
 |**2025-03-21**|**Exploring the Temporal Dynamics of Facial Mimicry in Emotion Processing Using Action Units**|Meisam Jamshidi Seikavandi et.al.|[2503.17306](http://arxiv.org/abs/2503.17306)|null|
 |**2025-03-21**|**Coarsening in the Persistent Voter Model: analytical results**|R. G. de Almeida et.al.|[2503.17295](http://arxiv.org/abs/2503.17295)|null|
-|**2025-03-21**|**Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem**|Abhijeet Pendyala et.al.|[2503.17194](http://arxiv.org/abs/2503.17194)|null|
+|**2025-03-21**|**Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem**|Abhijeet Pendyala et.al.|[2503.17194](http://arxiv.org/abs/2503.17194)|**[link](https://gitlab.com/anonymousppocl_cm1/anonymous_collisions_paper)**|
 |**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
 |**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125](http://arxiv.org/abs/2503.17125)|null|
 |**2025-03-21**|**Deterministic AI Agent Personality Expression through Standard Psychological Diagnostics**|J. M. Diederik Kruijssen et.al.|[2503.17085](http://arxiv.org/abs/2503.17085)|null|
@@ -134,7 +134,7 @@ layout: default
 |**2025-03-18**|**MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration**|Yisen Xu et.al.|[2503.14340](http://arxiv.org/abs/2503.14340)|null|
 |**2025-03-18**|**DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal**|Vaibhav Aggarwal et.al.|[2503.14269](http://arxiv.org/abs/2503.14269)|**[link](https://github.com/darsagent/dars-agent)**|
 |**2025-03-18**|**Conversational Agents as Catalysts for Critical Thinking: Challenging Social Influence in Group Decision-making**|Soohwan Lee et.al.|[2503.14263](http://arxiv.org/abs/2503.14263)|null|
-|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|**[link](https://github.com/yeliudev/VideoMind)**|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
 |**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414](http://arxiv.org/abs/2503.13414)|null|
 |**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402](http://arxiv.org/abs/2503.13402)|null|
@@ -829,7 +829,7 @@ layout: default
 |**2024-11-27**|**AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans**|Dillon Loh et.al.|[2411.18539](http://arxiv.org/abs/2411.18539)|**[link](https://github.com/dillonloh/adavln)**|
 |**2024-11-27**|**Biswas-Chatterjee-Sen kinetic exchange opinion model for two connected groups**|Krzysztof Suchecki et.al.|[2411.18527](http://arxiv.org/abs/2411.18527)|null|
 |**2024-11-27**|**NeuroAI for AI Safety**|Patrick Mineault et.al.|[2411.18526](http://arxiv.org/abs/2411.18526)|null|
-|**2024-11-27**|**Collective decision making by embodied neural agents**|Nicolas Coucke et.al.|[2411.18498](http://arxiv.org/abs/2411.18498)|null|
+|**2024-11-27**|**Collective decision making by embodied neural agents**|Nicolas Coucke et.al.|[2411.18498](http://arxiv.org/abs/2411.18498)|**[link](https://github.com/ppsp-team/pyhkbs)**|
 |**2024-11-27**|**Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator**|Frederic Kirstein et.al.|[2411.18444](http://arxiv.org/abs/2411.18444)|null|
 |**2024-11-28**|**A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers**|Onno P. Kampman et.al.|[2411.18429](http://arxiv.org/abs/2411.18429)|null|
 |**2024-11-27**|**Application of Soft Actor-Critic Algorithms in Optimizing Wastewater Treatment with Time Delays Integration**|Esmaeel Mohammadi et.al.|[2411.18305](http://arxiv.org/abs/2411.18305)|null|
