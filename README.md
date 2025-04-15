@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**The Price of Competitive Information Disclosure**|Siddhartha Banerjee et.al.|[2504.10459](http://arxiv.org/abs/2504.10459)|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445](http://arxiv.org/abs/2504.10445)|null|
+|**2025-04-14**|**Position Uncertainty in a Prisoner's Dilemma Game : An Experiment**|Chowdhury Mohammad Sakib Anwar et.al.|[2504.10441](http://arxiv.org/abs/2504.10441)|null|
+|**2025-04-14**|**Silent Self-Stabilizing Ranking: Time Optimal and Space Efficient**|Petra Berenbrink et.al.|[2504.10417](http://arxiv.org/abs/2504.10417)|null|
+|**2025-04-14**|**Ctrl-Z: Controlling AI Agents via Resampling**|Aryan Bhatt et.al.|[2504.10374](http://arxiv.org/abs/2504.10374)|null|
+|**2025-04-14**|**Proteinoid spikes: from protocognitive to universal approximating agents**|Saksham Sharma et.al.|[2504.10362](http://arxiv.org/abs/2504.10362)|null|
+|**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
+|**2025-04-14**|**Characterizing LLM-driven Social Network: The Chirper.ai Case**|Yiming Zhu et.al.|[2504.10286](http://arxiv.org/abs/2504.10286)|null|
+|**2025-04-14**|**RealHarm: A Collection of Real-World Language Model Application Failures**|Pierre Le Jeune et.al.|[2504.10277](http://arxiv.org/abs/2504.10277)|null|
 |**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
 |**2025-04-11**|**SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents**|Muhammad Shihab Rashid et.al.|[2504.08703](http://arxiv.org/abs/2504.08703)|null|
 |**2025-04-11**|**SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**|Timothy Bula et.al.|[2504.08696](http://arxiv.org/abs/2504.08696)|null|
