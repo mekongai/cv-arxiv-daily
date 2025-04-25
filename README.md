@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-04-23**|**Fair division of the replacement-units without an appraiser in urban renewal processes**|Noga Klein Elmalem et.al.|[2504.16852](http://arxiv.org/abs/2504.16852)|null|
 |**2025-04-23**|**MLOps Monitoring at Scale for Digital Platforms**|Yu Jeffrey Hu et.al.|[2504.16789](http://arxiv.org/abs/2504.16789)|null|
 |**2025-04-23**|**A Survey of AI Agent Protocols**|Yingxuan Yang et.al.|[2504.16736](http://arxiv.org/abs/2504.16736)|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734](http://arxiv.org/abs/2504.16734)|null|
+|**2025-04-24**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734](http://arxiv.org/abs/2504.16734)|null|
 |**2025-04-23**|**IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**|Aniketh Garikaparthi et.al.|[2504.16728](http://arxiv.org/abs/2504.16728)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
@@ -1438,7 +1438,7 @@
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
