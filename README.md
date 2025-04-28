@@ -47,7 +47,7 @@
 |**2025-04-22**|**Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning**|Hieu Huynh et.al.|[2504.15917](http://arxiv.org/abs/2504.15917)|null|
 |**2025-04-22**|**Learning the Spoofability of Limit Order Books With Interpretable Probabilistic Neural Networks**|Timothée Fabre et.al.|[2504.15908](http://arxiv.org/abs/2504.15908)|null|
 |**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801](http://arxiv.org/abs/2504.15801)|null|
-|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
 |**2025-04-21**|**FlowReasoner: Reinforcing Query-Level Meta-Agents**|Hongcheng Gao et.al.|[2504.15257](http://arxiv.org/abs/2504.15257)|**[link](https://github.com/sail-sg/flowreasoner)**|
 |**2025-04-21**|**A Self-Improving Coding Agent**|Maxime Robeyns et.al.|[2504.15228](http://arxiv.org/abs/2504.15228)|null|
@@ -57,7 +57,7 @@
 |**2025-04-21**|**Neural ATTF: A Scalable Solution to Lifelong Multi-Agent Path Planning**|Kushal Shah et.al.|[2504.15130](http://arxiv.org/abs/2504.15130)|null|
 |**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125](http://arxiv.org/abs/2504.15125)|null|
 |**2025-04-21**|**Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN**|Lin Wang et.al.|[2504.15099](http://arxiv.org/abs/2504.15099)|null|
-|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
 |**2025-04-18**|**LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark**|Guangyi Liu et.al.|[2504.13805](http://arxiv.org/abs/2504.13805)|null|
 |**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793](http://arxiv.org/abs/2504.13793)|null|
 |**2025-04-21**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
@@ -65,7 +65,7 @@
 |**2025-04-18**|**Stability of flocking in the reciprocal two-species Vicsek model: Effects of relative population, motility, and noise**|Aditya Kumar Dutta et.al.|[2504.13709](http://arxiv.org/abs/2504.13709)|null|
 |**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
 |**2025-04-18**|**Modelling Immunity in Agent-based Models**|Gray Manicom et.al.|[2504.13706](http://arxiv.org/abs/2504.13706)|null|
-|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Sijing Li et.al.|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
+|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Sijing Li et.al.|[2504.13650](http://arxiv.org/abs/2504.13650)|**[link](https://github.com/dcdmllm/eyecaregpt)**|
 |**2025-04-18**|**Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning**|Tao He et.al.|[2504.13643](http://arxiv.org/abs/2504.13643)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
@@ -107,7 +107,7 @@
 |**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
 |**2025-04-14**|**Characterizing LLM-driven Social Network: The Chirper.ai Case**|Yiming Zhu et.al.|[2504.10286](http://arxiv.org/abs/2504.10286)|null|
 |**2025-04-14**|**RealHarm: A Collection of Real-World Language Model Application Failures**|Pierre Le Jeune et.al.|[2504.10277](http://arxiv.org/abs/2504.10277)|**[link](https://github.com/giskard-ai/realharm)**|
-|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|**[link](https://github.com/facebookresearch/docagent)**|
 |**2025-04-11**|**SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents**|Muhammad Shihab Rashid et.al.|[2504.08703](http://arxiv.org/abs/2504.08703)|**[link](https://github.com/amazon-science/swe-polybench)**|
 |**2025-04-11**|**SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**|Timothy Bula et.al.|[2504.08696](http://arxiv.org/abs/2504.08696)|null|
 |**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694](http://arxiv.org/abs/2504.08694)|null|
