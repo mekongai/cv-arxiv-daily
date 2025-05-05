@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
+|**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
+|**2025-05-02**|**The Dance of the Sheared Eigenfunctions**|J. Oliveira-Cony et.al.|[2505.01303](http://arxiv.org/abs/2505.01303)|null|
+|**2025-05-02**|**Pattern formation using an intrinsic optimal control approach**|Tianhao Li et.al.|[2505.01302](http://arxiv.org/abs/2505.01302)|null|
+|**2025-05-02**|**Essential Workers at Risk: An Agent-Based Model (SAFE-ABM) with Bayesian Uncertainty Quantification**|Elizabeth B. Amona et.al.|[2505.01243](http://arxiv.org/abs/2505.01243)|null|
+|**2025-05-02**|**Bilateral Cognitive Security Games in Networked Control Systems under Stealthy Injection Attacks**|Anh Tung Nguyen et.al.|[2505.01232](http://arxiv.org/abs/2505.01232)|null|
+|**2025-05-02**|**Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions**|J. Gupta et.al.|[2505.01230](http://arxiv.org/abs/2505.01230)|null|
+|**2025-05-02**|**A Space-Time Trade-off for Fast Self-Stabilizing Leader Election in Population Protocols**|Henry Austin et.al.|[2505.01210](http://arxiv.org/abs/2505.01210)|null|
+|**2025-05-02**|**Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms**|Mehrdad Asadi et.al.|[2505.01181](http://arxiv.org/abs/2505.01181)|null|
+|**2025-05-02**|**Simulating Tertiary Educational Decision Dynamics: An Agent-Based Model for the Netherlands**|Jean-Paul Daemen et.al.|[2505.01142](http://arxiv.org/abs/2505.01142)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
