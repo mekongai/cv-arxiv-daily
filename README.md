@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
+|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/abs/2505.02820)|null|
+|**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802](http://arxiv.org/abs/2505.02802)|null|
+|**2025-05-05**|**Recolorable Graph Exploration by an Oblivious Agent with Fewer Colors**|Shota Takahashi et.al.|[2505.02789](http://arxiv.org/abs/2505.02789)|null|
+|**2025-05-05**|**Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols**|Tom-Lukas Breitkopf et.al.|[2505.02785](http://arxiv.org/abs/2505.02785)|null|
+|**2025-05-05**|**Merging plasmoids and nanojet-like ejections in a coronal current sheet**|Samrat Sen et.al.|[2505.02733](http://arxiv.org/abs/2505.02733)|null|
+|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|null|
+|**2025-05-05**|**Technical Report: Evaluating Goal Drift in Language Model Agents**|Rauno Arike et.al.|[2505.02709](http://arxiv.org/abs/2505.02709)|null|
+|**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|null|
+|**2025-05-05**|**Exploring LLM-Powered Role and Action-Switching Pedagogical Agents for History Education in Virtual Reality**|Zihao Zhu et.al.|[2505.02699](http://arxiv.org/abs/2505.02699)|null|
 |**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
 |**2025-05-02**|**The Dance of the Sheared Eigenfunctions**|J. Oliveira-Cony et.al.|[2505.01303](http://arxiv.org/abs/2505.01303)|null|
