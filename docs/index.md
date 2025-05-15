@@ -7,20 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
+|**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
 |**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
 |**2025-05-13**|**TRAIL: Trace Reasoning and Agentic Issue Localization**|Darshan Deshpande et.al.|[2505.08638](http://arxiv.org/abs/2505.08638)|null|
 |**2025-05-13**|**Credit Assignment and Efficient Exploration based on Influence Scope in Multi-agent Reinforcement Learning**|Shuai Han et.al.|[2505.08630](http://arxiv.org/abs/2505.08630)|null|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
 |**2025-05-13**|**MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm**|Yunwoo Lee et.al.|[2505.08593](http://arxiv.org/abs/2505.08593)|null|
-|**2025-05-13**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
+|**2025-05-14**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
 |**2025-05-13**|**The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News**|Yuhan Liu et.al.|[2505.08532](http://arxiv.org/abs/2505.08532)|null|
 |**2025-05-13**|**Strategy-Augmented Planning for Large Language Models via Opponent Exploitation**|Shuai Xu et.al.|[2505.08459](http://arxiv.org/abs/2505.08459)|null|
 |**2025-05-13**|**Zero-Shot Sim-to-Real Reinforcement Learning for Fruit Harvesting**|Emlyn Williams et.al.|[2505.08458](http://arxiv.org/abs/2505.08458)|null|
