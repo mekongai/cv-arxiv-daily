@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?**|Anthony GX-Chen et.al.|[2505.09614](http://arxiv.org/abs/2505.09614)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595](http://arxiv.org/abs/2505.09595)|null|
+|**2025-05-14**|**Preserving Plasticity in Continual Learning with Adaptive Linearity Injection**|Seyed Roozbeh Razavi Rohani et.al.|[2505.09486](http://arxiv.org/abs/2505.09486)|null|
+|**2025-05-14**|**Streaming Multi-agent Pathfinding**|Mingkai Tang et.al.|[2505.09472](http://arxiv.org/abs/2505.09472)|null|
+|**2025-05-14**|**CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios**|Raghav Garg et.al.|[2505.09436](http://arxiv.org/abs/2505.09436)|null|
+|**2025-05-14**|**Decentralized Nonlinear Model Predictive Control-Based Flock Navigation with Real-Time Obstacle Avoidance in Unknown Obstructed Environments**|Nuthasith Gerdpratoom et.al.|[2505.09434](http://arxiv.org/abs/2505.09434)|null|
+|**2025-05-14**|**Using Dopants as Agents to Probe Key Electronic Properties of Organic Semiconductors**|Artem Fediai et.al.|[2505.09431](http://arxiv.org/abs/2505.09431)|null|
+|**2025-05-14**|**Linear Search with Probabilistic Detection and Variable Speeds**|Jared Coleman et.al.|[2505.09429](http://arxiv.org/abs/2505.09429)|null|
+|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
+|**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396](http://arxiv.org/abs/2505.09396)|null|
 |**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
 |**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
 |**2025-05-13**|**TRAIL: Trace Reasoning and Agentic Issue Localization**|Darshan Deshpande et.al.|[2505.08638](http://arxiv.org/abs/2505.08638)|null|
