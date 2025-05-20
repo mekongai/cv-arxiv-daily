@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
+|**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
+|**2025-05-19**|**Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges**|Hongru Wang et.al.|[2505.13328](http://arxiv.org/abs/2505.13328)|null|
+|**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311](http://arxiv.org/abs/2505.13311)|null|
+|**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291](http://arxiv.org/abs/2505.13291)|**[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)**|
+|**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|
+|**2025-05-19**|**From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery**|Tianshi Zheng et.al.|[2505.13259](http://arxiv.org/abs/2505.13259)|**[link](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery)**|
+|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/abs/2505.13258)|null|
+|**2025-05-19**|**Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic**|Lennart Röstel et.al.|[2505.13253](http://arxiv.org/abs/2505.13253)|null|
 |**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
 |**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
 |**2025-05-16**|**Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem**|David X. Lin et.al.|[2505.11431](http://arxiv.org/abs/2505.11431)|null|
