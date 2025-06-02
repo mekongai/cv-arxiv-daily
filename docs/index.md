@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
+|**2025-05-30**|**Emergent Dynamics of Active Systems on Curved Environments**|Euan D. Mackay et.al.|[2505.24730](http://arxiv.org/abs/2505.24730)|null|
+|**2025-05-30**|**CoRet: Improved Retriever for Code Editing**|Fabio Fehr et.al.|[2505.24715](http://arxiv.org/abs/2505.24715)|null|
+|**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
+|**2025-05-30**|**Towards a unified user modeling language for engineering human centered AI systems**|Aaron Conrardy et.al.|[2505.24697](http://arxiv.org/abs/2505.24697)|null|
+|**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
