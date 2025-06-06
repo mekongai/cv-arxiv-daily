@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|null|
+|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305](http://arxiv.org/abs/2506.05305)|null|
+|**2025-06-05**|**Control Tax: The Price of Keeping AI in Check**|Mikhail Terekhov et.al.|[2506.05296](http://arxiv.org/abs/2506.05296)|null|
+|**2025-06-05**|**A Smooth Sea Never Made a Skilled $\texttt{SAILOR}$ : Robust Imitation via Learning to Search**|Arnav Kumar Jain et.al.|[2506.05294](http://arxiv.org/abs/2506.05294)|null|
+|**2025-06-05**|**Tight analyses of first-order methods with error feedback**|Daniel Berg Thomsen et.al.|[2506.05271](http://arxiv.org/abs/2506.05271)|null|
+|**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265](http://arxiv.org/abs/2506.05265)|null|
+|**2025-06-05**|**Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning**|Dravyansh Sharma et.al.|[2506.05252](http://arxiv.org/abs/2506.05252)|null|
+|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
+|**2025-06-05**|**A Framework for Ethical Judgment of Smart City Applications**|Weichen Shi et.al.|[2506.05172](http://arxiv.org/abs/2506.05172)|null|
+|**2025-06-05**|**An emergence-oriented approach to cyclic pursuit**|Zhaozhan Yao et.al.|[2506.05157](http://arxiv.org/abs/2506.05157)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
 |**2025-06-04**|**Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs**|Alex DeWeese et.al.|[2506.04215](http://arxiv.org/abs/2506.04215)|null|
 |**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
