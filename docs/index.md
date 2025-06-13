@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
+|**2025-06-11**|**SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance**|Wentao Ge et.al.|[2506.09968](http://arxiv.org/abs/2506.09968)|null|
+|**2025-06-11**|**The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability**|Jiachen Hu et.al.|[2506.09940](http://arxiv.org/abs/2506.09940)|null|
+|**2025-06-11**|**On the Linear Programming Model for Dynamic Stochastic Matching and Its Application on Pricing**|Junlin Chen et.al.|[2506.09924](http://arxiv.org/abs/2506.09924)|null|
+|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/abs/2506.09902)|null|
+|**2025-06-11**|**"What are my options?": Explaining RL Agents with Diverse Near-Optimal Alternatives (Extended)**|Noel Brindise et.al.|[2506.09901](http://arxiv.org/abs/2506.09901)|null|
+|**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/abs/2506.09839)|null|
+|**2025-06-11**|**Automatic Treatment Planning using Reinforcement Learning for High-dose-rate Prostate Brachytherapy**|Tonghe Wang et.al.|[2506.09805](http://arxiv.org/abs/2506.09805)|null|
+|**2025-06-11**|**Delegations as Adaptive Representation Patterns: Rethinking Influence in Liquid Democracy**|Davide Grossi et.al.|[2506.09789](http://arxiv.org/abs/2506.09789)|null|
+|**2025-06-11**|**Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era**|Shuo Jiang et.al.|[2506.09755](http://arxiv.org/abs/2506.09755)|null|
 |**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050](http://arxiv.org/abs/2506.09050)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
