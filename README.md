@@ -19,9 +19,9 @@
 |---|---|---|---|---|
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
-|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|**[link](https://github.com/deepsoftwareanalytics/swe-factory)**|
 |**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
-|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
 |**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
 |**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
