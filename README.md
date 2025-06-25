@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**Curating art exhibitions using machine learning**|Eurico Covas et.al.|[2506.19813](http://arxiv.org/abs/2506.19813)|null|
+|**2025-06-24**|**LLM-Based Social Simulations Require a Boundary**|Zengqing Wu et.al.|[2506.19806](http://arxiv.org/abs/2506.19806)|null|
+|**2025-06-24**|**Learning Task Belief Similarity with Latent Dynamics for Meta-Reinforcement Learning**|Menglong Zhang et.al.|[2506.19785](http://arxiv.org/abs/2506.19785)|null|
+|**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking**|Gyeongwon James Kim et.al.|[2506.19724](http://arxiv.org/abs/2506.19724)|null|
+|**2025-06-24**|**A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures**|Dezhang Kong et.al.|[2506.19676](http://arxiv.org/abs/2506.19676)|null|
+|**2025-06-24**|**How trust networks shape students' opinions about the proficiency of artificially intelligent assistants**|Yutong Bu et.al.|[2506.19655](http://arxiv.org/abs/2506.19655)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
