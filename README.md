@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-06-30**|**Protocol insecurity with finitely many sessions and XOR**|R Ramanujam et.al.|[2506.24072](http://arxiv.org/abs/2506.24072)|null|
+|**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
+|**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019](http://arxiv.org/abs/2506.24019)|null|
+|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
+|**2025-06-30**|**Harnessing AI Agents to Advance Research on Refugee Child Mental Health**|Aditya Shrivastava et.al.|[2506.23992](http://arxiv.org/abs/2506.23992)|null|
+|**2025-06-30**|**LLM Agents Are the Antidote to Walled Gardens**|Samuele Marro et.al.|[2506.23978](http://arxiv.org/abs/2506.23978)|null|
+|**2025-06-30**|**Flexible Moral Hazard Problems with Adverse Selection**|Siwen Liu et.al.|[2506.23954](http://arxiv.org/abs/2506.23954)|null|
+|**2025-06-30**|**Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice**|Akshit Kumar et.al.|[2506.23924](http://arxiv.org/abs/2506.23924)|null|
+|**2025-06-30**|**A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents**|Hang Su et.al.|[2506.23844](http://arxiv.org/abs/2506.23844)|null|
 |**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-27**|**Why Are Parsing Actions for Understanding Message Hierarchies Not Random?**|Daichi Kato et.al.|[2506.22366](http://arxiv.org/abs/2506.22366)|null|
 |**2025-06-27**|**Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation**|Tao Li et.al.|[2506.22365](http://arxiv.org/abs/2506.22365)|null|
