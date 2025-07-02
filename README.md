@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Protocol insecurity with finitely many sessions and XOR**|R Ramanujam et.al.|[2506.24072](http://arxiv.org/abs/2506.24072)|null|
 |**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
 |**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019](http://arxiv.org/abs/2506.24019)|null|
@@ -1898,7 +1898,7 @@
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
