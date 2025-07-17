@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
+|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-16**|**Social polarization promoted by sparse higher-order interactions**|Hugo Pérez-Martínez et.al.|[2507.12325](http://arxiv.org/abs/2507.12325)|null|
+|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
+|**2025-07-16**|**Toward a Behavioural Translation Style Space: Simulating the Temporal Dynamics of Affect, Behaviour, and Cognition in Human Translation Production**|Michael Carl et.al.|[2507.12208](http://arxiv.org/abs/2507.12208)|null|
+|**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
+|**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174](http://arxiv.org/abs/2507.12174)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
 |**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
